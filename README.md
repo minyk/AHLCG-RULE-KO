@@ -17,6 +17,6 @@
 
 
 * 스토리
- * 탐사자들: 탐사자들의 배경 스토리 번역입니다.
+ * 조사자들: 조사자들의 배경 스토리 번역입니다.
 
 Arkham Horror: Card Game은 FantasyFlightGames의 상표입니다.
