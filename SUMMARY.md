@@ -12,6 +12,7 @@
 * [능력](Abilities.md)
 * [패배](Elimination.md)
 * [캠페인 모드/ 시나리오 단독 진행](CampainStandalone.md)
+* [피해와 공포의 할당](rulerefs/DealingDamageAndHorror.md)
 * [조사자 덱 만들기](DeckBuilding.md)
 
 ----------------------------------------------------
