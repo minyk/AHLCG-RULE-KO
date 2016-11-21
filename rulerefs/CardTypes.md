@@ -1,44 +1,39 @@
-# Cardtypes
- e game’s cardtypes are presented in Appendix IV, with detailed card anatomies (see “Appendix IV: Card Anatomy” on page 28).
-= If an ability causes a card to change its cardtype, it loses all other cardtypes it might possess and functions as would any card of the new cardtype.
-See also: “Asset Cards” on page 4, “Enemy Cards” on page 10, “Event Cards” on page 11, “Location Cards” on page 14, “Skill Cards” on page 18, “Treachery Cards” on page 20.
+# 카드 형태
+* 어떤 능력이 카드 형태를 변경하게 하면, 가지고 있던 모든 다른 카드 형태가 없어지고, 새로운 카드 형태로 기능합니다.
 
-## Player Cardtypes
+## 플레이어 카드 형태
 
-### Asset Cards
-Asset cards represent items, allies, talents, spells, and other reserves that may assist or be used by an investigator during a scenario.
-= When you play an asset, it is placed in your play area. Generally, assets remain in play unless discarded by a card ability or game step.
-= Some assets have health and/or sanity. When an investigator is dealt damage or horror, that investigator may assign some or all of that damage or horror to eligible asset cards he or she controls (see “Dealing Damage/Horror” on page 7).
-= Most assets take up one or more slots while in play (see “Slots” on page 19).
-= Some assets have an encounter set icon and no level indicator. Such assets are known as Story Assets. Story Assets are part of an encounter set and may not be included in a player’s deck unless the resolution or setup of a scenario grants that player permission to do so.
+### 자산(Asset)
+자산 카드는 아이템, 동료, 타고난 재능, 주문 그리고 시나리오가 진행되는 동안 조사자에 의해서 사용되거나 조사자에게 도움을 줄 수 있는 다른 것들입니다.
+* 자산 카드를 플레이하면, 자신의 플레이 영역에 놓습니다. 일반적으로 자산 카드는 카드 능력이나 게임의 단계에서 버려지기 전까지 플레이에 남아 있습니다.
+* 일부 자산 카드들은 체력/정신 수치를 가지고 있습니다. 조사자가 피해나 공포를 입을 때, 조사자는 자신이 조종하는 적합한 자산 카드애개 피해나 공포를 일부 또는 모두 할당할 수 있습니다.(피해 주기 참고)
+* 대부분의 자산 카드들은 플레이에 있는 동안 하나 이상의 슬롯을 차지합니다(슬롯 참조).
+* 어떤 자산 카드들은 조우 셋 아이콘이 있으며, 레벨 표시가 없습니다. 이런 자산 카드들은 이야기(Story) 자산 카드입니다. 이야기 자산 카드는 조우 셋의 일부분이며, 시나리오의 결과나 준비에서 플레이어의 덱으로 넣으라는 별도의 지시가 없으면 플레이어의 덱에 넣을 수 없습니다.
 
-### Event Cards
-Event cards represent tactical actions, maneuvers, spells, tricks, and other instantaneous e ects at a player’s disposal.
-= If an event card does not have the fast keyword, it may only be played from a player’s hand by performing a “Play” action during his or her turn. You must follow all play permissions/restrictions that card has.
-= A fast event card may be played from a player’s hand any time its play instructions specify (see “Fast” on page 11).
-= Any time a player plays an event card, its costs are paid, its e ects are resolved (or canceled), and the card is placed in its owner’s discard pile a er those e ects resolve (or are canceled).
-= If the e ects of an event card are canceled, the card is still considered to have been played, and its costs remain paid. Only the e ects have been canceled.
-= Playing an event card from hand (or not playing it) is always optional for a player, unless the event uses the word “must” in its play instructions.
-= An event card cannot be played unless the resolution of its e ect has the potential to change the game state.
+### 사건(Event)
+사건 카드는 플레이어가 마음대로 사용할 수 있는 전술적인 행동, 동작, 주문, 속임수 및 다른 즉각적인 효과들입니다.
+* 사건 카드에 `Fast` 키워드가 없으면, 플레이어의 턴에 "플레이" 행동으로만 플레이할 수 있습니다. 반드시 카드에 있는 다른 모든 플레이 제한을 지켜야 합니다.
+* `fast` 사건 카드는 아무때나 플레이어의 손패에서 카드에 정해진 대로 플레이합니다.
+* 사건 카드를 플레이할떄마다 그 비용을 지불하고 그 효과를 해결(혹은 취소)한 후, 그 카드를 소유자의 버린 카드 더미에 놓습니다.
+* 사건 카드의 효과가 취소되어도 그 카드는 여전히 플레이한 것으로 간주하며, 그 비용도 지불된 상태를 유지해야 합니다. 카드의 효과만이 취소됩니다.
+* 사건 카드의 지시에 `must`가 있지 않는 이상, 손패에서 사건 카드를 플레이하는 것(혹은 하지 않는 것)은 전적으로 플레이어에게 달려 있습니다.
+* 사건 카드는 그 효과가 게임 상태에 영향을 줄수 있을 때에만 플레이할 수 있습니다.
 
-### Skill Cards
-Skill cards represent innate or learned a ributes or character traits that improve an investigator’s skill tests.
-Skill cards are not played from a player’s hand. In order to resolve their abilities, skill cards must be commi ed to a skill test.
-If a skill card is commi ed to a skill test, its ability may be used during the resolution of that skill test, as speci ed on the card.
-See “Skill Test Timing” on page 26.
+### 기술(Skill)
+기술 카드는 타고났거나 학습한 것 또는 캐릭터 특성을 나타내며 조사자의 스킬 테스트에 사용됩니다.
+기술 카드는 플레이어의 손패에서 플레이되지 않습니다. 카드의 능력을 사용하기 위해서는 스킬 테스트에 쓰여져야 합니다.
+기술 카드가 스킬 테스트에 사용되면, 카드에 표시되어 있는대로 카드의 능력이 스킬 테스트의 해결에 사용될 수 있습니다.
 
-## Encounter cardtypes
+## 시나리오 카드 형태
 
-### Enemy Cards
-Enemies represent villains, cultists, ne’er-do-wells, terrible monsters, and unfathomable entities from alternate dimensions or the cosmos beyond.
-When an enemy card is drawn by an investigator, that investigator must spawn it following any spawn direction the card bears (see “Spawn” on page 19). If the encountered enemy has no spawn direction, the enemy spawns engaged with the investigator encountering the card and is placed in that investigator’s threat area.
-See “1.4 Each investigator draws 1 encounter card” on page 24.
-= A ready, unengaged enemy engages any time it is at the same location as an investigator (see “Enemy Engagement” on page 10).
-= If an investigator is engaged with a ready enemy and takes an action other than to  ght, to evade, or to activate a parley or resign ability, that enemy makes an a ack of opportunity (see “A ack of Opportunity” on page 5).
-= Enemies with the hunter keyword move during the Enemy Phase (see “III. Enemy phase” on page 25).
-= Engaged enemies a ack during the Enemy Phase (see “III. Enemy phase” on page 25).
+### 적(Enemy)
+적 카드는 우주 너머나 다른 차원에서 온 악당, 광신도, 몬스터 그리고 불가해한 존재들을 나타냅니다.
+조사자가 적 카드를 뽑으면, 그 조사자는 카드에 있는 생성(spawn) 지시에 따라 적을 생성해야 합니다. 생성 지시가 없다면, 조사자와 대면한 상태로 조사자의 위협 영역에 생성됩니다.
+* 준비된 상태의 대면하지 않은 적은 같은 장소에 조사자가 있으면 즉시 대면합니다.(적의 대면 참고))
+* 준비상태의 적과 대면 중인 조사자가 전투(fight), 회피(evade)이외의 행동 또는 협상(parley), 사임(resign) 능력이외의 능력을 사용하면 대면하고 있는 적은 플레이어를 자동으로 공격합니다(기회 공격).
+* `hunter` 키워드를 가지고 있는 적은 적 페이즈 동안 이동합니다.
+* 대면되어 있는 적은 적 페이즈 동안 공격을 수행합니다.
 
-### Treachery Cards
-Treachery cards represent curses, a ictions, madnesses, obstacles, disasters, or other unexpected occurrences an investigator may encounter throughout the course of a scenario.
-When a treachery card is drawn by an investigator, that investigator must resolve its e ects.  en, place the card in its discard pile unless otherwise instructed by the ability.
-See “1.4 Each investigator draws 1 encounter card” on page 24.
+### 계략(Treachery)
+계략 카드는 조사자가 시나리오를 진행하면서 만날 수 있는 저주, 고통, 광기, 장애물, 재앙 또는 예측하지 못한 일들을 의미합니다.
+계략 카드를 뽑으면 그 조사자는 카드의 효과를 반드시 해결해야 합니다. 그리고 다른 지시가 없다면 그 카드를 카드가 속한 버린 카드 더미에 놓으십시오.

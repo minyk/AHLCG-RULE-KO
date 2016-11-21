@@ -1,11 +1,10 @@
-# Enemy Engagement
-While an enemy card is in play, it is either engaged with an investigator (and placed in that investigator’s threat area), or it is unengaged and at a location (and placed at that location). Each enemy in an investigator’s threat area is considered to be at the same location as that investigator, and should the investigator move, the enemy remains engaged and moves
-to the new location simultaneously with the investigator.
-Any time a ready unengaged enemy is at the same location
-as an investigator, it engages that investigator, and is placed
-in that investigator’s threat area. If there are multiple investigators at the same location as a ready unengaged enemy, follow the enemy’s prey instructions to determine which investigator is engaged.  ere is no limit on the number of enemies that can be engaged with a single investigator.
-For example, a ready unengaged enemy immediately engages if: = It spawns at the same location as an investigator,
-= It moves into the same location as an investigator,
-= An investigator moves into the same location as it.
-An exhausted unengaged enemy does not engage, but if an exhausted enemy at the same location as an investigator becomes ready, it engages as soon as it is readied.
-= Note: An enemy with the Aloof keyword does not engage in the manner described above.
+# 적의 대면
+적 카드가 플레이에 있는 동안, 적 카드는 조사자와 대면(조사자의 위협 영역에 위치)한 상태이거나 대면하지 않고 어떤 장소에 있는(장소에 위치) 상태입니다. 조사자의 위협 영역에 있는 적은 조사자와 같은 장소에 있는 것으로 취급하며, 조사자가 이동하면 대면한 상태로 동시에 조사자를 따라서 같이 움직입니다.
+언제든 조사자와 준비되었으나 대면되지 않은 적이 같은 장소에 있다면, 적은 조사자를 대면하게 되고, 그 조사자의 위협 영역으로 놓여집니다. 같은 장소에 한 명 이상의 조사자가 있다면 적 카드에 있는 `prey` 지시에 따라 어떤 조사자와 대면하게 되는지를 결정합니다. 한명의 조사자가 동시에 대면할 수 있는 적의 수에는 제한이 없습니다.
+
+예를 들어 준비상태인 대면하지 않은 적은 다음의 상황에서 즉시 대면합니다:
+* 조사자와 같은 장소에서 생성된 경우
+* 조사자와 같은 장소로 이동한 경우
+
+소진된 대면하지 않은 적은 대면하지 않지만, 조사자와 같은 장소에 있는 상태에서 준비 상태가 되면 즉시 조사자와 대면합니다.
+* 주의: `Aloof` 키워드가 있는 적은 이상의 방법으로 자동으로 조사자와 대면하지 않습니다.

@@ -15,7 +15,9 @@
  * [캠페인 모드/ 시나리오 단독 진행](rulerefs/CampainStandalone.md)
  * [피해와 공포의 할당](rulerefs/DealingDamageAndHorror.md)
  * [조사자 덱 만들기](rulerefs/DeckBuilding.md)
- * [Weakness(약점)](rulerefs/Weakness.md)
+ * [약점](rulerefs/Weakness.md)
+ * [카드 타입](rulerefs/CardTypes.md)
+ * [적의 대면](rulerefs/EnemyEngagement.md)
 
 ----------------------------------------------------
 
