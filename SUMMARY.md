@@ -21,10 +21,5 @@
 
 ----------------------------------------------------
 
-# 스토리
 ## 스토리
 * [탐사자들](investigators/README.md)
-* [Night of the Zealot](scenarios/night-of-the-zealot/README.md)
- * [The Gathering](scenarios/night-of-the-zealot/The-Gathering.md)
- * [The Midnight Masks](scenarios/night-of-the-zealot/The-Midnight-Masks.md)
- * [The Devourer Below](scenarios/night-of-the-zealot/The-Devourer-Below.md)
