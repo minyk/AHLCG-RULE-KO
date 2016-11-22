@@ -20,6 +20,7 @@
  * [적의 대면](rulerefs/EnemyEngagement.md)
  * [준비/ 소진 상태](rulerefs/ReadyAndExhaust.md)
  * [조사자 행동](rulerefs/Actions.md)
+ * [체력과 정신](rulerefs/HealthAndSanity.md)
 
 
 * 스토리

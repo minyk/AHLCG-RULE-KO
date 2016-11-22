@@ -1,18 +1,18 @@
-## Health and Damage
-Health represents a card’s physical fortitude. Damage tracks the physical harm that has been done to a card during a scenario.
-= Any time a card takes damage, place a number of damage tokens equal to the amount of damage just taken on the card (see “Dealing Damage/Horror” on page 7).
-= If an investigator has damage on him or her equal to or greater than his or her health, that investigator is defeated. When an investigator is defeated, he or she is eliminated from the scenario (see “Elimination” on page 10).
-= In campaign play, an investigator that is defeated by taking damage equal to his or her health su ers 1 physical trauma. Taking physical trauma may cause an investigator to be killed (see “Campaign Play” on page 5 for more information).
-= If an enemy has damage on it equal to or greater than its health, that enemy is defeated and placed in the encounter discard pile.
-= If an asset with a health value has damage on it equal to or greater than its health, it is defeated and placed on its owner’s discard pile.
-= An asset card without a health value is not considered to have a health of 0, cannot gain health, and cannot have damage assigned to it.
-= A card’s “remaining health” is its base health minus the amount of damage on it, plus or minus any active health modi ers.
+## 체력과 피해
+체력은 카드의 신체적인 강인함을 나타냅니다. 피해는 시나리오가 진행되면서 카드가 입은 물리적인 피해를 추적합니다.
+* 카드가 피해를 받으면, 카드가 받은 피해만큼의 피해 토큰을 카드 위에 올려 놓습니다. (피해/호러 입히기 참조)
+* 조사자가 자신의 체력과 같거나 높은 피해를 받으면 조사자는 패배합니다. 패배한 조사자는 시나리오에서 탈락합니다. (탈락 참조)
+* 캠페인을 플레이할 때, 피해를 받아서 패배한 조사자는 1점의 신체 트라우마를 받습니다. 신체 트라우마를 계속 받으면 조사자는 살해당하게 됩니다. (캠페인 플레이 참조)
+* 적이 자신의 체력과 같거나 높은 피해를 받으면, 적은 물리친 것이며 조우 카드 버린 더미에 놓습니다.
+* 체력 수치가 있는 자산이 체력과 같거나 높은 피해를 받으면, 자산 카드를 소유자의 버린 카드 더미에 놓습니다.
+* 체력 수치가 없는 자산 카드는 체력이 0인 것으로 보며, 체력을 얻거나 피해을 할당할 수 없습니다.
+* 카드의 "남아있는 체력"은 기본 체력에서 지금까지 받은 피해를 빼고 다른 활성화되어 있는 수정치를 더하거나 뺀 값입니다.
 
-## Sanity and Horror
-Sanity represents a card’s mental and emotional fortitude. Horror tracks the harm that has been done to a card’s psyche by exposure to the Mythos.
-= When a card takes horror, place a number of horror tokens equal to the amount of horror just taken on the card (see “Dealing Damage/Horror” on page 7).
-= If an investigator has horror on him or her equal to or greater than his or her sanity, that investigator is defeated. When an investigator is defeated, he or she is eliminated from the scenario (see “Elimination” on page 10).
-= In campaign play, an investigator that is defeated by taking horror equal to his or her sanity su ers 1 mental trauma. Taking mental trauma may cause an investigator to be driven insane (see “Campaign Play” on page 5 for more information).
-= If an asset with a sanity value has horror on it equal to or greater than its sanity, it is defeated and placed on its owner’s discard pile.
-= A card’s “remaining sanity” is its base sanity minus the amount of horror on that card, plus or minus any active sanity modi ers.
-= An asset card without a sanity value is not considered to have a sanity of 0, cannot gain sanity, and cannot have horror assigned to it.
+## 정신과 공포
+정신은 카드의 정신적/감정적인 강인함을 나타냅니다. 공포는 카드의 정신이 미토스에 얼마나 노출되었는지를 추적합니다.
+* 카드가 공포를 받으면, 카드가 받은 피해만큼의 공포 토큰을 카드 위에 올려 놓습니다. (피해/호러 입히기 참조)
+* 조사자가 자신의 정신과 같거나 높은 공포를 받으면 조사자는 패배합니다. 패배한 조사자는 시나리오에서 탈락합니다. (탈락 참조)
+* 캠페인을 플레이할 때, 공포를 받아서 패배한 조사자는 1점의 정신 트라우마를 받습니다. 정신 트라우마를 계속 받으면 조사자는 미치게 됩니다. (캠페인 플레이 참조)
+* 정신 수치가 있는 자산이 정신과 같거나 높은 공포를 받으면, 자산 카드를 소유자의 버린 카드 더미에 놓습니다.
+* 정신 수치가 없는 자산 카드는 정신이 0인 것으로 보며, 정신을 얻거나 공포을 할당할 수 없습니다.
+* 카드의 "남아있는 정신"은 기본 정신에서 지금까지 받은 공포를 빼고 다른 활성화되어 있는 수정치를 더하거나 뺀 값입니다.
