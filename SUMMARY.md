@@ -18,7 +18,9 @@
  * [약점](rulerefs/Weakness.md)
  * [카드 타입](rulerefs/CardTypes.md)
  * [적의 대면](rulerefs/EnemyEngagement.md)
+ * [준비/ 소진 상태](rulerefs/ReadyAndExhaust.md)
+ * [조사자 행동](rulerefs/Actions.md)
 
 
 * 스토리
- * [탐사자들](investigators/README.md)
+ * [조사자들](investigators/README.md)
