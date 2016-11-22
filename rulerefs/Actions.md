@@ -1,64 +1,49 @@
-# Actions
+# 행동
+조사자는 자신의 턴동안 3번의 행동을 할 수 있습니다. 행동을 할 때에는 비용을 먼저 지불합니다. 그후에 행동의 결과를 수행합니다.
+* 어떤 지시로 인하여 조사자가 한 개 혹은 그 이상의 행동을 잃게되면, 그 라운드에는 더 적은 행동을 해야 합니다.
 
-During his or her turn, an investigator is permi ed to take up to three actions. When performing an action, all costs of the action are  rst paid.  en, the consequences of the action resolve.
-= If an investigator is instructed to lose 1 or more actions, he or she has that many fewer actions to take during that round.
+## 카드 집기
+카드 집기("Draw")는 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다. 이 행동을 취하면 조사자는 자신의 덱에서 카드 한 장을 집어서 손패에 넣습니다.
 
-## Draw Action
-“Draw” is an action an investigator may take during his or her turn in the investigation phase.
-When an investigator takes this action, that investigator draws one card from his or her deck.
+## 대면
+대면(“Engage”)은 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다.
+같은 장소에 있는 적(예를 들어 소진된 적이나 `aloof` 키워드가 있는 적 또는 다른 조사자와 대면하고 있는 적)을 대면하기 위해서 조사자는 자신의 위협 영역에 그 적 카드를 놓게 되며, 그 조사자와 적은 서로 대면하고 있는 상태가 됩니다.
+* 같은 장소에서 다른 조사자와 이미 대면하고 있는 적을 대면하기 위해서 이 행동을 사용할 수 있습니다. 그 적은 이전 조사자와의 대면이 해제되는 동시에 대면 행동을 수행한 조사자와 대면하게 됩니다.
+* 이미 자신이 대면하고 있는 적에게는 대면 행동을 사용할 수 없습니다.
 
-## Engage Action
-“Engage” is an action an investigator may take during his or her turn in the investigation phase.
-To engage an enemy at the same location (for example, this could be done to engage an exhausted enemy, an aloof enemy, or an enemy engaged with another investigator), an investigator places the chosen enemy in his or her threat area.  e investigator and the enemy are now engaged.
-= An investigator may perform the engage action to engage an enemy that is engaged with a di erent investigator
-at the same location.  e enemy simultaneously disengages from the previous investigator and
-engages the investigator performing the action.
-= An investigator cannot use the engage action to engage an enemy he or she is already engaged with.
+## 회피
+회피(“Evade")는 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다.
+조사자와 대면하고 있는 적을 회피하기 위해서 조사자는 적의 회피 수치를 대상으로 민첩 스킬 테스트를 수행합니다.(스킬 테스트 참조)
+테스트가 성공하면 조사자는 성공적으로 적을 회피합니다(이 것은 스킬 테스트의 7번째 단계에서 일어납니다).
+테스트가 실패하면 적과 대면되어 있는 상태로 남게 됩니다.
+* 어떤 능력이 "자동(automatically)"으로 하나 혹은 그 이상의 적을 회피하게 해주면, 회피하기 위한 스킬 테스트가 필요없습니다.
+* 적이 회피(회피 행동 또는 카드 능력으로)되면 그 적은 소진(준비 상태였다면)되며, 대면은 해제됩니다. 적을 조사자의 위협 영역에서 조사자가 현재 있는 장소로 옮겨 놓아 더 이상 대면하지 않음을 표시합니다.
+* 전투("fight")나 대면("engage") 행동과는 다르게 회피 행동은 오직 자신과 대면하고 있는 적과만 할 수 있습니다.
 
-## Evade, Evade Action
-“Evade” is an action an investigator may take during his or her turn in the investigation phase.
-To evade an enemy engaged with an investigator, that investigator makes an agility test against the enemy’s evade value (see “Skill Tests” on page 18).
-If the test is successful, the investigator successfully evades the enemy (see below). ( is occurs during step 7 of the skill test, per “ST.7 Apply skill test results” on page 26.)
-If the test fails, the investigator does not evade the enemy, and it remains engaged with him or her.
-= If an ability “automatically” evades 1 or more enemies, no skill test is made for the evasion a empt.
-= Any time an enemy is evaded (whether by an evade action, or by card ability), the enemy is exhausted (if it was ready) and the engagement is broken. Move the enemy from the investigator’s threat area to the investigator’s location to mark that it is no longer engaged with that investigator.
-= Unlike the  ght and engage action, an investigator can only perform an evade action against
-an enemy engaged with him or her.
+## 전투
+전투(“Fight”)는 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다.
+현재 조사자가 있는 장소에서 적과 전투하려면 적의 "fight" 값에 대해서 전투 스킬 테스트를 수행합니다.(스킬 테스트 참조)
+테스트에 성공하면 공격이 성공하여 그 적에게 피해를 입힙니다. 공격의 기본 피해는 1점입니다. 일부 무기, 주문 혹은 다른 특수 공격은 공격의 피해 값을 변경할 수 있습니다(이 것은 스킬 테스트의 7번째 단계에서 일어납니다).
+테스트에 실패하면 적은 아무런 피해도 입지 않습니다. 조사자가 다른 한명의 조사자와 대면하고 있는 적을 공격하여 실패했다면 그 적과 대면하고 있는 조사자에게 그 피해를 입히게 됩니다.
+* 조사자는 현재 대면하고 있는 적, 같은 장소에 있는 대면하지 않고 있는 적, 같은 장소에 있는 다른 조사자가 대면하고 있는 적을 공격할 수 있습니다.
 
-## Fight Action
-“Fight” is an action an investigator may take during his or her turn in the investigation phase.
-To  ght an enemy at his or her location, an investigator resolves an a ack against that enemy by making a combat test against the enemy’s  ght value (see “Skill Tests” on page 18).
-If the test is successful, the a ack succeeds and damage is dealt to the a acked enemy.  e default damage dealt by an a ack is 1. Some weapons, spells, or other special a acks may modify this damage. ( is occurs during step 7 of the skill test, per “ST.7 Apply skill test results” on page 26.)
-If the test fails, no damage is dealt to the a acked enemy. However, if an investigator fails this test against an enemy that is engaged with another single investigator, the damage of the a ack is dealt to the investigator engaged with that enemy.
-= An investigator may  ght any enemy at his or her location, including: an enemy he or she is engaged with, an unengaged enemy at the same location, or an enemy engaged with another investigator who is at the same location.
+## 조사
+조사(“Investigate”)는 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다.
+조사자가 이 행동을 할때 마다, 그 장소의 숨김("shroud") 값을 대상으로 지식 스킬 체크를 수행합니다. (스킬 테스트 참조)
+테스트가 성공하면 성공적으로 그 장소를 조사하여 장소에서 단서를 하나 발견하게 됩니다(이 것은 스킬 테스트의 7번째 단계에서 일어납니다).
+조사자가 장소에서 단서를 하나 발견할때 마다 그 조사자는 장소에서 단서 토큰을 하나 집어서 자신의 조사자 카드위에 놓습니다.
+테스트가 실패하면 조사에 실패한 것이며 스킬 테스트의 7번째 단계동안 어떤 단서도 발견하지 못합니다.
 
-## Investigate Action
-“Investigate” is an action an investigator may take during his or her turn in the investigation phase.
-Each time an investigator takes this action, he or she makes an intellect test against the shroud value of that location (see “Skill Tests” on page 18).
-If the test is successful, the investigator has succeeded in investigating the location, he or she discovers one clue at the location. ( is occurs during step 7 of the skill test, per “ST.7 Apply skill test results” on page 26.)
-Any time an investigator discovers a clue from a location, that player takes the clue from the location and places it on his or her investigator card, under his or her control.
-If the test is failed, the investigator has failed in investigating the location. No clues are discovered during step 7 of the skill test.
+## 이동
+이동(“Move”)은 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다.
+조사자가 이 행동을 수행하면, 조사자(의 미니 카드)를 현재 장소와 연결되어 있는 다른 장소로 이동시킵니다. (이동 참조)
 
-## Move Action
-“Move” is an action an investigator may take during his or her turn in the investigation phase.
-When an investigator takes this action, move that investigator (using his or her mini card) to any other location that is marked as a connecting location on his or her current location (see “Move” on page 15).
+## 플레이
+플레이(“Play”)는 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다.
+이 행동을 하면, 조사자는 손패에서 자산("asset") 카드나 사건("event") 카드를 하나 선택하고, 그 비용을 지불한 후 카드를 플레이합니다. (플레이 참조)
+* `fast` 키워드가 있는 카드는 이 행동으로 플레이 할 수 없습니다. (`fast` 키워드 참조)
+* 기술("skill") 카드는 플레이할 수 없습니다. 스킬 카드를 사용하려면 플레이어의 손패에서 스킬 테스트에 사용해야만 합니다.
 
-### Move
-Any time an entity (an investigator or enemy) moves, transfer that enemy card or investigator’s mini card from its current location to a di erent location.
-= Unless otherwise speci ed by the move e ect or ability, the moving entity must move to a connecting location. Connecting locations are identi ed on the location card representing the entity’s current location, as shown below.
-= Any time an entity moves, it is considered to leave the previous location, and to enter the new location, simultaneously.
-= If an entity is “moved to...” a speci c location, the entity is moved directly to that location, and does not pass through other locations en route.
-= If an investigator moves to an unrevealed location, that location is revealed by turning it to its other side, and placing a number of clues on it equal to its clue value. Most clue values are conveyed as a “per investigator” ( ) value.
-= If an enemy moves to an unrevealed location, that location remains unrevealed.
-= Game elements (tokens or cards) may also be moved by card abilities from one card to another, or from one game area to another game area.
-= When an entity or game element moves, it cannot move to its same (current) placement. If there is no valid destination for a move, the move cannot be a empted.
-
-## Play Action
-“Play” is an action an investigator may take during his or her turn in the investigation phase.
-When an investigator takes this action, that investigator selects an asset or event card in his or her hand, pays its resource cost, and plays it (see “Play” on page 16).
-=  Cards with the “fast” keyword are not played by using this action (see “Fast” on page 11).
-= Skill cards are not “played.”  ese cards are commi ed to a skill test from a player’s hand in order to use their abilities.
-
-## Resource Action
-“Resource” is an action an investigator may take during his or her turn in the investigation phase.
-When an investigator takes this action, that investigator gains one resource by taking it from the token pool and adding it to his or her resource pool.
+## 자원 얻기
+자원(“Resource”)은 조사자 페이즈안에서 자신의 턴 동안 할 수 있는 행동입니다.
+이 행동을 하면, 조사자는 토큰 뭉치에서 자원 토큰 한 개를 자신의 자원 뭉치로 얻습니다.
