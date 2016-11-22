@@ -21,6 +21,7 @@
  * [준비/ 소진 상태](rulerefs/ReadyAndExhaust.md)
  * [조사자 행동](rulerefs/Actions.md)
  * [체력과 정신](rulerefs/HealthAndSanity.md)
+ * [장소와 이동](rulerefs/LocationAndMove.md)
 
 
 * 스토리

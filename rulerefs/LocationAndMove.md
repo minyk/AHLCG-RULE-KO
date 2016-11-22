@@ -1,17 +1,17 @@
-# Location Cards
-Location cards represent the places the investigators may explore during a scenario.
-= Use each investigator’s mini-card to indicate which location he or she is at.
-= While an investigator is at a location, that investigator, each of his or her assets, and each card in that investigator’s threat area is at the same location.
-= Locations enter play in an “unrevealed” state, so that the side with no shroud value and/or clue value is faceup. Do not read the “revealed” side at this time.
-=  e  rst time a location is entered by an investigator, that location is revealed by turning it to its other side and placing a number of clues on it equal to its clue value (this may occur during setup). Most clue values are conveyed as a “per investigator” ( ) value.
-= A location with its shroud/clue value side faceup is in the “revealed” state.
+# 장소 카드
+장소 카드는 시나리오동안 조사자가 탐사할 수 있는 지역을 나타냅니다.
+* 각 조사자의 미니카드를 조사자가 있는 장소에 두어서 표시하는데 사용합니다.
+* 조사자가 어떤 장소에 있으면, 그 조사자, 자신의 자산, 조사자의 위협 영역에 있는 카드들은 같은 장소에 있는 것입니다.
+* 장소는 플레이에 들어올 때에 "공개되지 않은" 상태로 들어오며, 숨김("shroud") 값이나 단서의 개수를 보여주지 않습니다. 이 시점에서는 "공개된" 면을 보지 마십시오.
+* 어떤 조사자가 처음으로 장소로 이동했을 때, 그 장소는 다른 면이 보이도록 뒤집어 공개되며, 장소의 단서 개수에 해당하는 단서 토큰을 카드 위에 올려 놓습니다(이 일은 준비 단계에서 일어날 수도 있습니다). 대부분 단서 토큰의 개수는 "조사자당 값(<img src="images/per-investigator.png" width=25>)"으로 나타납니다.
+* 장소의 숨김값/단서 토큰수가 보이면 "공개된" 상태입니다.
 
-# Move
-Any time an entity (an investigator or enemy) moves, transfer that enemy card or investigator’s mini card from its current location to a di erent location.
-= Unless otherwise speci ed by the move e ect or ability, the moving entity must move to a connecting location. Connecting locations are identi ed on the location card representing the entity’s current location, as shown below.
-= Any time an entity moves, it is considered to leave the previous location, and to enter the new location, simultaneously.
-= If an entity is “moved to...” a speci c location, the entity is moved directly to that location, and does not pass through other locations en route.
-= If an investigator moves to an unrevealed location, that location is revealed by turning it to its other side, and placing a number of clues on it equal to its clue value. Most clue values are conveyed as a “per investigator” ( ) value.
-= If an enemy moves to an unrevealed location, that location remains unrevealed.
-= Game elements (tokens or cards) may also be moved by card abilities from one card to another, or from one game area to another game area.
-= When an entity or game element moves, it cannot move to its same (current) placement. If there is no valid destination for a move, the move cannot be a empted.
+# 이동
+어떤 객체(조사자나 적)가 이동할 때에는 적 카드나 조사자의 미니 카드를 현재 장소에서 옮겨가는 다른 장소로 옮겨 놓습니다.
+* 이동 효과나 능력에 다른 지시가 없다면 이동하는 객체는 연결된 장소로만 이동할 수 있습니다. 연결된 장소는 장소 카드에 아이콘으로 표시되어 있습니다.
+* 객체가 이동할 때에는 이전 장소를 떠나는 것과 동시에 현재의 장소로 들어가게 됩니다.
+* 객체가 "move to..."이라고 특정 장소를 명시하면 그 객체는 그 장소로 바로 이동하며 다른 지역을 거쳐가지 않습니다.
+* 조사자가 비공개인 장소로 이동하면 그 장소 카드를 뒤집어서 공개하게 되며 장소의 단서 값과 같은 수의 단서 토큰을 카드에 올려 놓습니다. 대부분 단서 토큰의 개수는 "조사자당 값(<img src="images/per-investigator.png" width=25>)"으로 나타납니다.
+* 적이 비공개인 장소로 이동하면 그 장소는 공개하지 않고 비공개로 놔둡니다.
+* 토큰이나 카드 등의 게임 요소도 카드 능력에 의해서 카드에서 카드로 혹은 게임의 한 영역에서 또 다른 영역으로 이동될 수 도 있습니다.
+* 객체나 게임 요소가 이동할떄, 같은(현재) 위치로 이동할 수 없습니다. 적절한 목적지가 없는 경우에는 이동을 시도할 수 없습니다.
