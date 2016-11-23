@@ -22,6 +22,7 @@
  * [조사자 행동](rulerefs/Actions.md)
  * [체력과 정신](rulerefs/HealthAndSanity.md)
  * [장소와 이동](rulerefs/LocationAndMove.md)
+ * [스킬 테스트 및 테스트 절차](rulerefs/SkillTestsAndSkillTestTiming.md)
 
 
 * 스토리

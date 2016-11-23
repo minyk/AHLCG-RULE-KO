@@ -1,53 +1,54 @@
-## Skill Tests
-A number of situations in the game require an investigator to make a skill test, using one of his or her four skills: willpower ( ), intellect ( ), combat ( ), or agility ( ). A skill test pits
-the investigator’s value in a speci ed skill against a di culty value that is determined by the ability or game step that
-initiated the test.  e investigator is a empting to match or exceed this di culty value in order to succeed at the test.
+## 스킬 테스트
+게임의 다양한 상황에서 조사자는 4가지 스킬: 의지(willpower <img src="../images/skill-willpower.png" width=25>), 지능(intellect <img src="../images/skill-intellect.png" width=25>), 전투(combat <img src="../images/skill-combat.png" width=25>), 민첩(agility <img src="../images/skill-agility.png" width=25>) 중 하나를 사용하여 스킬 테스트를 해야 합니다. 스킬 테스트는 조사자의 특정 스킬을 테스트를 발생 시킨 능력이나 게임의 단계에서 지정한 난이도 값과 비교합니다. 조사자는 스킬 테스트를 성공 시키기 위해서 스킬 값이 난이도 값과 같거나 높도록 시도합니다.
 
-A  skill test is o en referred to as a test of the speci ed skill. (For example: “agility test,” “combat test,” “willpower test,” or “intellect test.”)
+스킬 테스트는 특정한 스킬의 테스트(예: "의지 테스트", "전투 테스트", "민첩 테스트", "지능 테스트")로 언급될 수 도 있습니다.
 
-## Modifiers
-Some abilities cause values or quantities of characteristics to be modi ed.  e game state constantly checks and (if necessary) updates the count of any variable value or quantity that is being modified.
-Any time a new modi er is applied (or removed), the entire quantity is recalculated from the start, considering the unmodified base value and all active modifiers.
-= When calculating a value, treat all modifiers as being applied simultaneously. However, while performing the calculation, all additive and subtractive modifiers are calculated before doubling and/or halving modifiers.
-= Fractional values are rounded up a er all modifiers have been applied.
-= A quantity on a card (such as a stat, an icon, a number of instances of a trait or keyword) cannot be reduced so that it functions with a value below zero. Negative modifiers in excess of a value’s current quantity can be applied, but, after all active modifiers have been applied, any resultant value below zero is treated as zero. (For example: Danny tests agility and reveals a –8 chaos token. When applied to his agility of 4, this would reduce his skill value to –4. However, his agility cannot be reduced so that it functions with a value below zero. While the –8 modi er still exists, his agility is treated as zero. If Danny were to play “Lucky!” to receive a +2 bonus to the test, this bonus would not be applied to the functioning skill value of zero; but rather, it is applied in conjunction with all active modifiers. Danny’s agility would then be calculated as follows: base skill 4, –8 from chaos token, +2 from “Lucky!” for a total of –2, which is still treated as zero.)
+## 수정치
+몇몇 능력은 값이나 어떤 크기를 변경시키기도 합니다. 게임 상태를 계속해서 점검하여 (필요하다면) 수정되어야 하는 값이나 양을 적용합니다.
 
-## Skill Test Timing
+언제든 새로운 수정치가 적용(혹은 제거)되면 전체의 양은 수정되기 전의 기본 값과 모든 활성화되어 있는 수정치를 고려하여 처음부터 다시 계산합니다.
+* 값을 계산할 떄, 모든 수정치는 동시에 적용하는 것으로 간주합니다. 그러나 계산을 함에 있어서는 더하기/빼기 수정치는 두배하기/반으로 나누기 수정치보다 먼저 계산합니다.
+* 소수점이하의 값은 모든 수정치가 적용된 후 반올림합니다.
+* 카드에 있는 양(상태 값, 아이콘, 특성이나 키워드의 수)은 0보다 낮아 질 수 없습니다. 현재의 양을 넘어서는 수를 감소시키는 수정치를 적용할 수는 있지만, 모든 활성화된 수정치가 적용된 후에는 0 이하의 값은 0으로 취급합니다.
 
-ST.1 Determine skill type of test. Skill test of that type begins.
-This step formalizes the beginning of a skill test.  ere are four types of skill tests: willpower tests, intellect tests, combat tests, and agility tests.  e card ability or game rule determines which type of test is necessary, and thereby a test of that type begins.
 
-ST.2 Commit cards from hand to skill test.
-The investigator performing the skill test may commit any number of cards with an appropriate skill icon from his or her hand to this test.
-Each other investigator at the same location as the investigator performing the skill test may commit one card with an appropriate skill icon to this test.
-An appropriate skill icon is either one that matches the skill being tested, or a wild icon.  e investigator performing this test gets +1 to his or her skill value during this test for each appropriate skill icon that is commi ed to this test.
-Cards that lack an appropriate skill icon may not be commi ed to a skill test. Do not pay a card’s resource cost when commi ing it.
+## 스킬 테스트 타이밍
 
-ST.3 Reveal chaos token.
-The investigator performing the skill test reveals one chaos token at random from the chaos bag.
+#### ST.1 테스트할 스킬을 결정하고 그 스킬의 테스트가 시작합니다.
+이 단계는 스킬 테스트의 시작입니다. 스킬 테스트에는 의지, 전투, 지능, 민첩의 4가지 종료가 있습니다. 카드의 능력이나 게임 규칙에서 어떤 스킬 테스트가 필요한지 결정되고 이에 따라 그 스킬의 테스트가 시작됩니다.
 
-ST.4 Apply chaos symbol e ect(s).
-Apply any e ects initiated by the symbol on the revealed chaos token. Each of the following symbols indicates that an ability on the scenario reference card must initiate:  ,  ,  , or  .
+#### ST.2 손패에서 스킬 테스트에 카드를 사용.
+스킬 테스트를 수행하는 조사자는 자신의 손패에서 이 테스트에 원하는 만큼의 일치하는 스킬 아이콘을 가지고 있는 카드를 사용할 수 있습니다.
+같은 장소에 있는 다른 조사자들은 이 테스트에 일치하는 스킬 아이콘을 가지고 있는 한장의 카드를 사용할 수 있습니다.
+일치하는 아이콘은 테스트하는 스킬과 동일한 것이거나 <img src="../images/skill-wild.png" width=25> 아이콘이어야 합니다. 스킬 테스트를 수행하는 조사자는 이렇게 사용된 카드에서 일치하는 아이콘 하나당 +1의 수정치를 스킬에 더합니다.
+일치하는 아이콘이 없는 카드는 사용될 수 없습니다. 스킬 테스트에 사용되는 카드의 비용은 별도로 지불하지 않습니다.
 
-The   symbol indicates that the   ability on the investigator card belonging to the player performing the test must initiate.
+#### ST.3 카오스 토큰 공개.
+테스트를 수행하는 조사자는 카오스 토큰이 든 주머니에서 무작위로 하나의 카오스 토큰을 골라 공개합니다.
 
-If none of the above symbols are revealed, or if the icon has no corresponding ability, this step completes with no e ect.
+#### ST.4 카오스 심볼의 효과를 적용.
+공개된 카오스 토큰 심볼에 따른 효과를 적용합니다. 다음의 아이콘은 시나리오 참조 카드를 보고 효과를 적용합니다: <img src="../images/chaos-skull.png" width=25>, <img src="../images/chaos-acol.png" width=25>, <img src="../images/chaos-tablet.png" width=25>, <img src="../images/chaos-what.png" width=25>
 
-ST.5 Determine investigator’s modi ed skill value.
-Start with the base skill (of the skill that matches the type of test that is resolving) of the investigator performing this test, and apply all active modi ers, including the appropriate icons that have been commi ed to this test, e ects of the chaos token(s) revealed, and all active card abilities that are modifying the investigator’s skill value.
+<img src="../images/chaos-eldersign.png" width=25> 심볼은 테스트를 수행하는 플레이어의 조사자 카드에 있는 <img src="../images/chaos-eldersign.png" width=25> 능력에 따라 적용합니다.
 
-ST.6 Determine success/failure of skill test.
-Compare the investigator’s modi ed skill value to the di culty of the skill test.
+이런 심볼들이 아니거나 일치하는 능력이 없는 아이콘이면 이 단계는 효과없이 종료됩니다.
 
-If the investigator’s skill value equals or exceeds the di culty for this test (as indicated by the card or game mechanic invoking the test), the investigator succeeds at the test.
-* If an investigator automatically succeeds at a test via a card ability, the total di culty of that test is considered 0.
+#### ST.5 조사자의 수정된 스킬 값 결정.
+수행하는 스킬의 기본값에서 시작해서 테스트에 사용된 카드의 아이콘, 공개된 카오스 토큰의 효과, 조사자의 스킬 값을 수정하는 모든 활성화되어 있는 카드 능력 등 모든 활성화된 수정치를 적용합니다.
 
-If the investigator’s skill value is less than the di culty for this test, the investigator fails at the test.
-* If an investigator automatically fails at a test via a card ability or revealing the   symbol, his or her total skill value for that test is considered 0.
+#### ST.6 스킬 테스트의 성공/실패 결정.
+조사자의 수정된 스킬 값과 스킬 테스트의 난이도를 비교합니다.
 
-ST.7 Apply skill test results.
-The card ability or game rule that initiated a skill test usually indicates the consequences of success and/or failure for that test. (Additionally, some other card abilities may contribute additional consequences, or modify existing consequences, at this time.) Resolve the appropriate consequences (based on the success or failure established during step ST.6) at this time.
-If there are multiple results to be applied during this step, the investigator performing the test applies those results in the order of his or her choice.
+조사자의 스킬 값이 이 테스트의 난이도(카드의 지시나 테스트를 시작한 게임 규칙에 의한)와 같거나 크다면 조사자는 테스트에 성공합니다.
+* 카드 능력으로 인하여 자동 성공한다면 전체 난이도는 0으로 간주합니다.
 
-ST.8 Skill test ends.
-This step formalizes the end of this skill test. Discard all cards that were commi ed to this skill test, and return all revealed chaos tokens to the chaos bag.
+조사자의 스킬 값이 이 테스트의 난이도보다 미만이면 테스트는 실패합니다.
+* 카드 능력이나 공개된 심볼에 따라 자동 실패한 경우 이 테스트의 스킬 값은 0으로 간주합니다.
+
+#### ST.7 스킬 테스트 결과 적용.
+스킬 테스트를 시작시킨 카드 능력이나 게임의 규칙은 일반적으로 테스트의 성공 그리고/혹은 실패에 대한 결과도 지시합니다. (그리고 이 지점에서 다른 카드 능력이 결과 적용에 추가되거나 현재의 결과를 변경할 수 있습니다.) 이 시점에서 적절한 결과(6번 단계의 성공 또는 실패에 따른)를 수행하십시오.
+
+이 단계에서 복수의 결과가 적용되어야 한다면 그 순서는 테스트를 수행한 조사자가 선택합니다.
+
+#### ST.8 스킬 테스트의 종료.
+이 단계는 스킬 테스트의 종료입니다. 스킬 테스트에 사용된 모든 카드를 버리고 공개된 모든 카오스 토큰을 주머니로 돌려 넣습니다.
