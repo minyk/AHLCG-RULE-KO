@@ -23,6 +23,8 @@
  * [체력과 정신](rulerefs/HealthAndSanity.md)
  * [장소와 이동](rulerefs/LocationAndMove.md)
  * [스킬 테스트 및 테스트 절차](rulerefs/SkillTestsAndSkillTestTiming.md)
+ * [토큰들](rulerefs/Tokens.md)
+ * [이기는 것과 지는 것](rulerefs/WinningAndLosing.md)
 
 
 * 스토리

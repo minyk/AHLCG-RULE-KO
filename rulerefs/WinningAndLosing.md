@@ -1,11 +1,11 @@
-# Winning and Losing
+# 이기는 것과 지는 것
+각 시나리오는 몇 개의 다른 엔딩이 있습니다.
 
-Each scenario has a number of di erent possible endings.
+액트 덱은 시나리오에서 조사자들의 진척도를 나타냅니다. 액트 덱에 있는 어떤 지시들(다른 조우 카드 타입처럼)은 “(→R#).” 형태의 해결 지점을 가지고 있습니다. 플레이어들의 우선 목표는 해결 지점(아마도 좋은)에 도달할 때까지 액트 덱을 진행하는 것입니다. 액트 덱이 해결 지점을 지시하면 플레이어들은 시나리오를 종료한 것입니다("승리"한 것일 수도 있습니다). 지정된 해결을 위한 지시를 캠페인 메뉴얼의 "게임의 종료 전에 읽지 마시오" 항목에서 찾을 수 있습니다.
 
-The act deck represents the progress of the investigators through a scenario. Some instructions in the act deck (as well as on other encounter cardtypes) contain resolution points, in the format of: “(→R#).”  e players’ primary objective is to advance through the act deck until a (hopefully favorable) resolution point is reached. Should the act deck invoke a resolution, the players have completed the scenario (they may even have “won!”). Instructions for resolving the designated resolution are found in the “do not read until end of game” section of the campaign manual.
+아젠다 덱은 시나리오에서 조사자에 대항하는 악의 세력의 목표와 진척도를 의미합니다. 아젠다 덱에 있는 어떤 지시들(다른 조우 카드 타입처럼)은 “(→R#).” 형태의 해결 지점을 가지고 있습니다. 아젠다 덱이 해결 지점(대부분 나쁜)을 지시하면 플레이어는 시나리오에서 진 것입니다. 지정된 해결을 위한 지시를 캠페인 메뉴얼의 "게임의 종료 전에 읽지 마시오" 항목에서 찾을 수 있습니다.
 
-The agenda deck represents the objectives and progress of the malicious forces pi ed against the investigators in the scenario. Some instructions in the agenda deck (as well as on other encounter cardtypes) also contain resolution points, in the format of: “(→R#).” Should the agenda deck invoke a (usually darker) resolution, the players have lost the scenario. Instructions for resolving the designated resolution are found in the “do not read until end of game” section of the campaign guide.
+시나리오에서 어떤 해결 지점에도 도달하지 못한(예를 들어 모든 조사자가 제거되거나 사임한 경우) 경우에도 해결을 위한 지시를 캠페인 메뉴얼의 "게임의 종료 전에 읽지 마시오" 항목에서 찾을 수 있습니다.
 
-Should the scenario end with no resolution being reached (for example, if all investigators have been eliminated or have resigned), instructions for resolving the scenario can be found in the “do not read until end of game” section of the campaign guide.
-= If playing in a campaign, players will proceed to the next scenario in the campaign regardless of the outcome of the scenario. Even if players “lose” a scenario, they still continue their campaign (although with some negative consequences from their failure).
-= When playing a standalone scenario, players either win or lose the scenario.  ey win if they complete a resolution on an act card. Any other resolution is considered a loss (see “Standalone Mode” on page 19).
+* 캠페인을 진행하는 중이면, 시나리오의 결과가 어떻든 플레이어들은 캠페인에 있는 다음 시나리오를 진행합니다. 플레이어들이 시나리오에서 "진" 경우에도 (실패에 따른 부정적인 결과들이 있겠지만) 여전히 캠페인을 계속 진행합니다.
+* 단독 시나리오를 진행할 때에는 플레이어들은 시나리오에서 이기거나 지거나 합니다. 플레이어들이 액트 덱에 있는 해결 지점에 도달한 경우에는 이긴 것입니다. 다른 모든 해결 지점들은 지는 것으로 간주합니다.

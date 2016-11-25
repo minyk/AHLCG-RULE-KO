@@ -1,34 +1,30 @@
-Tokens, Running out of
- ere is no limit to the number of tokens (of any type) which can be in the game area at a given time. If players run out of the provided tokens, other tokens, counters, or coins may be used to track the current game state.
+## 토큰이 부족하면
 
-Chaos Tokens
-Chaos tokens are revealed from the chaos bag during skill tests, to modify or in uence the results of the skill test.
-       —If any of these tokens are revealed for a skill test, resolve the e ect for that symbol as indicated on the scenario reference card for the current scenario.
- — is is the auto-fail token. If this token is revealed for a skill test, it indicates the investigator automatically fails the test (see “Automatic Failure/Success” on page 5).
- — is is the elder sign token. If this token is revealed for a skill test, resolve the   e ect on the investigator card belonging to the player performing the skill test.
-If a revealed chaos token (or the e ect referenced by a chaos token) has a numerical modi er, that modi er is applied to the investigator’s skill value for this test.
-See “ST.3 Reveal chaos token” on page 26.
+어떤 시점에 게임 영역안에 있는 (모든 종류의) 토큰의 수에는 제한이 없습니다. 동봉된 토큰을 다 사용하면, 다른 토큰, 카운터 혹은 동전 등을 사용하여 현재의 게임 상태를 추적하실 수 있습니다.
 
-Clues
-Clues represent the progress the investigators can make towards solving a mystery, unraveling a conspiracy, and/or advancing in a scenario.
-=  e  rst time an investigator enters a location, that location is revealed (turned face-up) and a number of clues equal to that location’s clue value are placed on that location (from the token pool). Most clue values are conveyed as a “per investigator ( )” value.  is may occur during setup.
-= A clue at a location can be discovered by successfully investigating the location (see “Investigate Action” on page 13), or by a card ability. If an investigator discovers a
-clue, he or she takes the clue from the location and places
-it on his or her investigator card, under his or her control.
-= If there are no “Objective – ” requirements for advancing the current act, during any investigator’s turn the investigators may, as a group, spend the requisite number of clues (usually conveyed as a “per investigator” value) from their investigator cards to advance the act deck.  is is normally done as a   player ability. Any or all investigators may contribute any number of clues towards the total number of clues required to advance the act.
-= A card ability that refers to clues “at a location” is referring to the undiscovered clues that are currently on that location.
-See also: “Act Deck and Agenda Deck” on page 3, “Tokens, Running out of ” on page 20.
+## 카오스 토큰
+카오스 토큰은 스킬 테스트 동안 스킬 테스트의 결과에 영향을 주거나 수치를 수정하기 위해서 카오스 주머니에서 뽑아서 공개합니다.
+* <img src="../images/chaos-skull.png" width=25>, <img src="../images/chaos-acol.png" width=25>, <img src="../images/chaos-tablet.png" width=25>, <img src="../images/chaos-what.png" width=25> - 이 토큰이 공개되면 햔재 시나리오의 참조 카드를 확인하여 그 효과를 해결하십시오.
+* <img src="../images/chaos-tentacle.png" width=25> - 이 토큰은 자동 실패 토큰입니다. 스킬 테스트에서 이 토큰이 공개되면 조사자는 자동으로 테스트에 실패합니다.
+* <img src="../images/chaos-eldersign.png" width=25> - 이 토큰은 엘더 사인 토큰입니다. 이 토큰이 공개되면, 스킬 테스트를 수행하는 플레이어의 조사자 카드에 있는 <img src="../images/chaos-eldersign.png" width=25> 능력을 참조하여 해결하십시오.
 
-Doom
-Doom represents the progress the forces of the Mythos make towards completing foul rituals, summoning cosmic entities, and/or advancing a scenario’s agenda.
-= During each Mythos phase, 1 doom is placed on the current agenda (see “I. Mythos phase” on page 24).
-= If there are no “Objective – ” requirements for advancing the current agenda and the requisite amount of doom is in play (among the agenda and all cards in play), the agenda advances during the “Check doom threshold” step of the Mythos phase. Unless a card otherwise speci es that it can advance the agenda, this is the only time at which the agenda can advance.
-= Doom on cards other than the agenda (such as enemies, allies, locations, etc.) counts towards the amount of doom in play.
-See also: “Act Deck and Agenda Deck” on page 3, “Tokens, Running out of ” on page 20
+공개된 토큰이 (혹은 카오스 토큰의 효과가) 숫자를 가진 수정치라면, 이 테스트에서는 그 수정치를 조사자의 스킬 값에 적용합니다.
 
-Resources
-Resources represent the various means of acquiring new cards at an investigator’s disposal – supplies, money, tools, knowledge, spell components, etc.
-= In order to play a card or use an ability that costs resources, an investigator must pay that card or ability’s resource cost by taking the speci ed number of resources from his or her resource pool and returning them to the token pool (see “Costs” on page 7).
-= Resources can be gained by performing the “Resource” action (see “Resource Action” on page 17).
-= Investigators acquire one resource during each Upkeep phase (see “4.4 Each investigator draws 1 card and gains 1 resource” on page 25).
-See also: “Tokens, Running out of ” on page 20.
+## 단서 토큰
+단서 토큰은 시나리오에서 조사자들이 미스테리를 해결하거나 음모를 파해치거나 진행하는 진척도를 나타냅니다.
+* 조사자가 어떤 장소에 처음으로 방문하면, 그 장소르 공개(뒤집어서)하고 그 장소의 단서 값과 동일한 수의 토큰을 토큰 풀에서 가져와서 그 장소위에 놓습니다. 대부분의 단서 값은 "조사자 당(<img src="../images/per-investigator.png" width=25>)" 의 형태로 나타나 있습니다. 이 일은 게임의 준비 단계에서 일어날 수도 있습니다.
+* 어떤 장소의 단서 토큰은 그 장소에서의 성공한 조사 액션이나 카드 능력을 통하여 발견됩니다. 조사자가 단서를 발견하면 단서를 발견한 그 장소에서 자신이 조종하는 조사자의 카드 위로 토큰을 옮겨 놓습니다.
+* 현재의 액트를 진행하는 조건으로 "Objective -" 표시가 없다면 아무 조사자의 턴 동안 조사자들은, 그룹으로, 필요한 수(일반적으로 "조사자 당(<img src="../images/per-investigator.png" width=25>)" 값으로 표기)의 단서 토큰을 소비하여 현재의 액트를 진행할 수 있습니다. 이러한 진행은 일반적으로 <img src="../images/triggered-free.png" width=25> 플레이어 능력으로 수행됩니다. 현재의 액트를 진행하는데에 필요한 총 단서 수를 만들기 위해서 일부 혹은 모든 조사자들은 원하는 만큼의 단서 토큰을 사용할 수 있습니다.
+* "장소에 있는" 단서 토큰을 가르키는 카드 능력은 그 장소의 현재 남아 있는 발견되지 않은 단서 토큰을 가르킵니다.
+
+## 둠 토큰
+둠 토큰은 미토스의 세력이 사악한 의식의 완료나 우주적 존재 소환의 진척을 나타내며 현재 시나리오의 아젠다를 진행하는데 사용됩니다.
+* 각 미토스 페이즈동안 한 개의 둠 토큰을 현재 아젠다에 놓습니다.
+* 현재 아젠다를 진행하는 조건으로 "Objective -" 표시가 없고 플레이에 있는 (아젠다 카드와 플레이에 있는 모든 카드 위에) 필요한 양의 둠 토큰이 있다면, 현재 아젠다는 미토스 페이즈의 "둠 수치 확인" 단계에서 진행됩니다. 카드에 별도로 아젠다를 진행할 수 있다고 표기된 경우를 제외하면 이 때가 아젠다가 진행될 수 있는 유일한 단계입니다.
+* 아젠다가 아닌 다른 카드(적, 동료, 장소 등)에 있는 둠 토큰은 플레이에 있는 둠 토큰의 양을 구할 때 합산됩니다.
+
+## 자원 토큰
+자원 토큰은 조사자의 사용으로 얻는 새 카드에 따라 다양한 의미 - 보급품, 돈, 도구, 지식, 주문 재료 등을 나타냅니다.
+* 카드를 플레이하거나 자원이 필요한 능력을 사용하려면, 조사자는 반드시 그 카드나 능력의 자원 비용을 정해진 만큼 자신의 자원 풀에서 토큰 풀로 지불해야 합니다.
+* 자원 토큰은 "자원 얻기" 액션을 수행하여 얻을 수 있습니다.
+* 조사자는 매 업킵 페이즈에서 하나의 자원 토큰을 얻습니다.
