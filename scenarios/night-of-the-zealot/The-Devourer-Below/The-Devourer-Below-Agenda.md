@@ -7,10 +7,7 @@
 아캄에서의 컬트 회원들을 심문한 결과, 컬트 마스터 중 한 명의 은신처가 파괴된 것에 대한 보복으로 복수의 의식을 진행하고 있다는 것을 알게 되었습니다. 그 의식을 멈추기 위해 아캄 시 밖에 있는 숲으로 들어갑니다. 숲은 이상할 정도의 추위를 보이며 쥐 죽은 듯한 고요만이 가득차 있습니다.
 
 #### B
-숲을 가로질러 날카로운 외침이 울려 퍼집니다. 숲속 깊은 곳 어디선가부터, 스무명 정도의 끔찍한 목소리가 부름에 응답합니다 개들의 으르렁거리는 소리와 분명하지는 않지만 하나의 이름 "Umôrdhoth" 을 반복하는
-
-Throughout the woods, a shrieking cry echoes. From somewhere deeper in the forest, a score of hideous voices answer the call, inhuman as the baying of hounds and yet articulate, repeating a singular name:
-“Umôrdhoth… Umôrdhoth… Umôrdhoth…”
+숲을 가로질러 날카로운 외침이 울려 퍼집니다. 숲속 깊은 곳 어디선가부터, 개들의 으르렁거리는 소리같은 사람의 것 같지 않고 분명하지는 않지만 하나의 이름 "Umôrdhoth" 을 반복하는 소리에 스무명 정도의 끔찍한 목소리가 부름에 응답합니다
 
 ### Agenda 2: The Ritual Begins
 
