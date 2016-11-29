@@ -2,5 +2,22 @@
   "title": "아캄 호러: 카드게임 규칙의 비공식 한글 번역 v1.0",
   "description": "아캄 호러: 카드 게임의 규칙과 스토리 일부에 대한 번역입니다.",
   "author": "민박사",
-  "language": "ko"
+  "language": "ko",
+  "plugins": ["autocover"],
+  "pluginsConfig": {
+    "autocover": {
+      "font": {
+              "size": null,
+              "family": "Impact",
+              "color": "#FFF"
+          },
+          "size": {
+              "w": 1800,
+              "h": 2360
+          },
+          "background": {
+              "color": "#09F"
+          }
+    }
+  }
 }
