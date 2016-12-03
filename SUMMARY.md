@@ -25,7 +25,7 @@
  * [스킬 테스트 및 테스트 절차](rulerefs/SkillTestsAndSkillTestTiming.md)
  * [토큰들](rulerefs/Tokens.md)
  * [이기는 것과 지는 것](rulerefs/WinningAndLosing.md)
-
+ * [승리 포인트와 승리 전시 영역](rulerefs/VictoryPoints.md)
 
 * 스토리
  * [조사자들](investigators/README.md)
