@@ -1,19 +1,16 @@
 ## The Midnight Masks
 
-### Agenda 1: Predator or Prey?
+### Agenda 1: 추적자인가 먹이감인가?
 
 #### A
-
-Lita seems convinced of a conspiracy within the city of Arkham. She believes that a secret cult serves the ghouls that live in the crypts beneath the city, and that several of the cult’s prominent members are scattered throughout Arkham. As you begin searching for them, you can’t shake the feeling that you, too, are being hunted.
+리타는 아캄시의 음모가 있음을 확신합니다. 그녀는 비밀 숭배 조직이 도시 아래의 지하에 사는 구울을 섬기고, 컬트의 저명한 회원 몇 명이 아르캄 전역에 흩어져 있다고 믿습니다. 당신이 그들을 찾기 시작할 때, 당신도, 마찬가지로, 쫒기고 있다는 느낌을 떨칠 수 없습니다.
 
 #### B
 
-### Agenda 2: Time is Running Short
+### Agenda 2: 시간이 부족하다
 
 #### A
-
-The minutes pass quickly as your investigation continues.
+조사를 계속하는 동안 시간은 빠르게 흐르고 있습니다.
 
 #### B
-
-It is midnight. There is no time left to investigate the city; you must act based on the information you’ve collected from the cultists you’ve found.
+자정입니다. 더 이상 도시를 조사할 시간이 없습니다. 지금까지 찾은 광신도들에게서 모은 정보만을 바탕으로 움직여야만 합니다.

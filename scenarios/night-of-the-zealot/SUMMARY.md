@@ -1,7 +1,6 @@
 # Summary
 
-## 캠페인
-* [Night of the Zealot](README.md)
+* [Night of the Zealot 캠페인](README.md)
 
 ## 시나리오
 * The Gathering

@@ -3,9 +3,7 @@
 ### Act 1: Uncovering the Conspiracy
 
 #### A
-
-You have one night to find the members of this cult and unveil their plan. The more members of the cult you can find and interrogate before midnight, the better.
+당신이 컬트의 멤버를 찾고 그들의 계획을 공개하는데에 하룻밤밖에 없습니다. 자정 전에 더 많은 회원을 찾아처 심문할 수록, 더 좋습니다.
 
 #### B
-
-You’ve successfully uncovered the identities of all of the cult’s high-ranking members within Arkham. The man who had stalked you throughout the city was dedicated in his conviction, as was Herman, the undertaker of the graveyard. Others seemed to have been coerced to aid the cult. Ruth, the mortician, had been told that her family would be killed if she did not supply the ghouls with fresh corpses. Thankfully, you managed to help her escape the hospital safely. Peter, the professor, had to be convinced that his involvement with the cult would do more harm than good. Victoria’s obsession with occult artifacts had landed her deep within the cult’s web. When you confronted Drew in the asylum, he attacked you—but interestingly, he did so because he thought you were part of the cult. The deeper you delve into this conspiracy, the clearer it becomes that many lives have been ruined by it.
+아캄시의 모든 컬트의 상위 멤버들의 신원을 성공적으로 밝혀 냈습니다. 도시 전역에서 당신을 스토킹 한 사람인 묘지의 장의사 허만(Herman)은 자신의 신념따라 행동했습니다. 다른 사람들은 숭배를 돕기 위해 강요된 것처럼 보였습니다. 염장이인 루스(Ruth)는 구덩이에 신선한 시체를 공급하지 않으면 가족이 살해 될 것이라고 말했습니다. 다행스럽게도, 당신은 그녀가 안전하게 병원을 벗어날 수 있도록 도와주었습니다. 교수인 피터는 컬트와의 관계가 선보다 해를 끼칠 것이라는 확신을 가져야했습니다. 오컬트 유물에 대한 빅토리아의 강박 관념 때문에 그녀는 컬트의 거미줄에 깊숙이 묶여있습니다. 드류를 정신병동에서 만났을 때, 그는 당신을 공격했습니다 -하지만 흥미롭게도 그는 당신이 컬트의 일부라고 생각했기 때문에 그렇게했습니다. 이 음모에 대해 깊이 파고 들수록 더 많은 생명이 그 음모에 의해 파괴되었다는 것이 명확해 졌습니다.
