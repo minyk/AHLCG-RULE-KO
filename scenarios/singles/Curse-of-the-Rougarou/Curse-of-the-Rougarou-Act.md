@@ -1,5 +1,3 @@
-## Curse of the Rougarou
-
 ### Act 1: 에스프리트 여사를 찾아서
 
 #### A
