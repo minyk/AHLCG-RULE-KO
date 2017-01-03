@@ -27,5 +27,7 @@
  * [이기는 것과 지는 것](rulerefs/WinningAndLosing.md)
  * [승리 포인트와 승리 전시 영역](rulerefs/VictoryPoints.md)
 
-* 스토리
- * [조사자들](investigators/README.md)
+
+* 조사자들
+ * [코어 셋](investigators/CORE-SET.md)
+ * [던위치 레가시](investigators/DUNWICH-LEGACY.md)
