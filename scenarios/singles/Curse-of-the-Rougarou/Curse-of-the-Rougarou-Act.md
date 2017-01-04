@@ -1,24 +1,22 @@
-### Act 1: 에스프리트 여사를 찾아서
+### Act 1
 
-#### A
+#### A: 에스프리트 여사를 찾아서
 
 연락책에 따르면 에스프리트 여사는 늪지대 안에 살고 있는 부두 사제라고 합니다. 대부분의 사람들은 그녀의 외로운 오두막집에 가까이 가려 하지 않습니다. 결국 최근의 야만적인 살인들이 없었더라도 늪지대는 위험한 곳이 될 수 있습니다.
 
-#### B
+#### B: 저주를 받아들임
 
-에스프리트 여사의 오두막집은 찾는 것은 간단한 일이 아니었지만, 결국에는 안개 속에서 낡아 빠진 헛간을 발견하게 됩니다. 에스프리트 여사는 당신이 들어오자, 전혀 놀라지 않고, 환영합니다. 그녀는 Rougarou가 한때 사람이었으며, "Shub-Niggurath"로 알려진 것의 저주로 큰 늑대의 형태로 변형되었다고 주장합니다. 그녀는 이 늪지대에서 루가루우의 저주를 들어 올릴 수 있다고 믿지만, 그 생물체 만 파괴된다.
-
-Finding Lady Esprit's shack is no simple endeavor, but eventually you spot the decrepit shanty through the mist. Lady Esprit greets you as you enter, not at all surprised by your intrusion. She claims that the Rougarou was once a man, cursed by a being known as "Shub-Niggurath" into the form of a great wolf. She believes that she can lift the Rougarou's curse from the bayou, but only if the creature is destroyed.
+에스프리트 여사의 오두막집은 찾는 것은 간단한 일이 아니었지만, 결국에는 안개 속에서 낡아 빠진 헛간을 발견하게 됩니다. 에스프리트 여사는 당신이 들어오자, 전혀 놀라지 않고, 환영합니다. 그녀는 Rougarou가 한때 사람이었으며, "Shub-Niggurath"로 알려진 것의 저주로 큰 늑대의 형태로 변형되었다고 주장합니다. 그녀는, 만약 그 생물을 파괴할 수만 있다면, 자신이 늪에서 루가루의 저주를 없앨 수 있다고 믿습니다.
 
 * 선임 조사자는 큰 소리로 다음을 읽습니다:
-에스프리트 여사의 오두막을 떠날 때, 엄청난 고통이 몸 전체에 흐르며, 무플을 꿇었습니다.
+에스프리트 여사의 오두막을 떠날 때, 엄청난 고통이 몸 전체에 흐르며, 고통에 무릎을 꿇었습니다.
 
-### Act 2: Hunting the Rougarou
+### Act 2
 
-#### A
+#### A: 루가루 사냥
 
-The Rougarou is somewhere within the vast bayou. You must track it down and destroy it, lest the beast's curse consume you as well.
+루가루는 광대한 늪지 어딘가에 있다. 당신은 괴물의 저주가 당신을 완전히 삼켜버리기 전에, 그것을 추적하고 파괴하여야만 한다.
 
-#### B
+#### B: 루가루 길들이기
 
-Conversing with the creature is a daunting task. Whenever it is cornered, it bellows and attacks, like a feral beast. If there is still some semblance of humanity left inside the create, it is buried deep beneath the rage and bloodlust of the curse.
+그 생물과 대화하는 것은 힘든 일이었다. 구석으로 몰아 넣을 때마다, 그것은, 야생 짐승처럼, 소리지르며 공격한다. 만약 그 생물 안에 아직 인간성을 닮은 무언가가 남아있다면, 그것은 저주에 의한 격노와 피에 대한 갈망으로 깊이 묻혀버렸을 것이다.

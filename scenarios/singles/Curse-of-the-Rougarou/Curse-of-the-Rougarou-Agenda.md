@@ -1,33 +1,34 @@
-### Agenda 1: A Creature of the Bayou
+### Agenda 1
 
-#### A
+#### A: 늪지의 생물
 
-After arriving in New Orleans the next day, you start your investigation by asking the locals what they knew of the recent killings. As you suspected, most know very little of the incidents. You do manage to find several eyewitnesses who give similar descriptions of the creature: its lithe, muscular form, lanky arms, and wolf-like visage. A promising start - but if there is any truth to the rumors about this "curse", you'll have to talk to Lady Esprit herself.
+다음날 뉴 올리언즈에 도착한 후, 지역 주민에게 최근의 살인에 대해 그들이 무엇을 알고 있는지 묻고 조사를 시작한다. 생각했던대로, 대부분의 사건을 거의 알지 못하고 있다. 당신은 생물에 대한 비슷한 묘사를 하는 목격자 몇 명을 발견 할 수 있다 : 그것은 유연하고, 근육질에, 길다란 팔과 그리고 늑대 같은 형체를 하고 있다고 한다. 시작이 좋다. - 그러나 이 "저주"에 관한 소문에 사실인 부분이 있다면, 당신은 에스프리트 여사와 이야기해야만 할 것이다.
 
-#### B
+#### B: 검게 변한 하늘
 
-A violent storm rolls in as your search continues. Black rainclouds conquer the sky, the air thick with humidity. You recall that all of the recent killings took place late at night, under the cover of dark clouds. A shiver runs down your spine - what if you are next?
+당신이 계속해서 탐색함에 따라 거친 폭풍이 몰아치기 시작한다. 먹구름이 하늘을 점령하고, 대기는 습도가 지나치게 높아져간다. 당신은 최근에 일어난 살인 사건 세 건 모두가 늦은 밤, 어두운 구름이 덮인 곳에서 일어났음을 떠올린다. 소름이 척추를 타고 오른다. 도움이 되지는 않지만, 궁금해 진 것이 있다 - 만약 당신이 다음 차례라면.
 
-### Agenda 2: The Rougarou Feeds
+### Agenda 2
 
-#### A
+#### A: 루가루가 먹는다
 
-Around you, the bayou feasts. Flesh rips and jaws snap just beyond the trees, and light droplets of rain ripple upon the surface of the water. You can't tell exactly where the sounds are coming from. Perhaps it's the dreadful ambience of the bayou itself.
+당신의 주변에, 늪지가 잔치를 벌이고 있다. 살갖은 찢겨나가고, 나무들을 지나면서 턱이 딱딱 부딪히고, 가볍게 떨어지는 빗방울이 수면 위로 파문을 일으키는 것이 비친다. 당신은 소리가 어디에서 오는지 정확하게 말할 수는 없다. 아마도 불쾌한 늪지의 분위기 때문일지도 모른다.
 
-#### B
+#### B: 열 번째 밤
 
-A clash of thunder roars through the sky, and you reel in pain from the sudden explosion of noise. Your vision doubles, and bile leaps up your throat. A lone howl returns the call of the sky, echoing throughout the bayou. You wrench yourself off the muddy ground and find your bearings, unable to shake the feeling that you're running out of time.
+하늘을 가로 지르는 천둥 소리가 들려오며, 갑자기 폭발음이 터지면서 당신은 고통스러워진다. 당신의 시력이 두 배는 된 것 같고, 위액은 목구멍으로 역류하고 있다. 외롭게 울부 짖는 소리는 하늘에 퍼지고, 늪지 전역에 메아리친다. 진흙탕에서 몸을 일으킨 뒤 소지품을 찾아 낸 당신은, 시간이 부족하다는 느낌을 떨칠 수가 없다.
 
-### Agenda 3: The Curse Spreads
+### Agenda 3
 
-#### A
+#### A: 저주가 퍼져나간다
 
-Tendrils of slime ooze from the bogs, crawling over tree roots and grasping at you as you pass. The air hangs heavy with a noxious heat. You feel as though you are sinking, sinking deep into the bayou, sinking beneath the heaviness of the black sky and the rank mist...
+습지에서 돋아난 점액질의 덩굴은, 나무 뿌리를 뒤덮고 당신이 지나가려 하자 당신을 움쳐잡는다. 대기는 유해한 열기로 무겁게 늘어진다. 당신은 마치 가라앉는 것 같은, 늪지 깊숙히 가라앉고 있는 것 같은, 검은 하늘과 자욱한 안개의 무게에 눌려 가라앉는 것 같은 느낌을 받는다.
 
-#### B
 
-A high-pitched shriek echoes through the bayou, followed by the sinister howls of the accursed Rougarou. The beast has drawn blood again - this you are sure of.
+#### B: 저주에 사로잡히다
 
-* The bearer of the Curse of the Rougarou weakness read the following (out loud):
+찢어질 듯 높은 비명소리가 늪지에 메아리치고, 저주받은 루가루의 불길한 울음소리가 뒤를 따르듯이 울린다. 괴물이 다시 피를 보았다는 것 - 당신은 이것만은 확신했다.
 
-You feel something dripping from your hand, and are surprised to find your knuckles bloody and torn. Nearby, the bard of a tree is smashed and dripping with blood. The anger of your failure slowly fades as you realize the blood is yours.
+* 루가루의 저주 약점을 짊어진 자는 이하를 읽으시오.
+
+당신은 손에서 무언가가 뚝뚝 떨어지는 것을 느끼며, 당신의 손가락 관절이 피묻고 찢겨져 있음을 발견하고 놀란다. 근처에 있는 나무 껍데기가 박살나고 피가 떨어지고 있다. 당신은 그 피가 당신의 것임을 깨닫고 실패의 분노가 서서히 가라앉는다.
