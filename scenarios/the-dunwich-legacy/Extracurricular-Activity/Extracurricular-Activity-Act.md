@@ -1,26 +1,25 @@
 # Extracurricular Activity
 
-## Act 1: After Hours
+## Act 1: 방과 후
 
-### A: After Hours
-Professor Rice was last seen several hours ago by one of Armitage’s students, in the Humanities building.
+### A: 방과 후
+아미티지 교수의 학생 중 한명이 몇 시간전에 라이스 교수를 인문학 건물에서 목격했다고 합니다.
 
-### B: The Head Janitor
-You were unable to find Professor Rice, but one of the students you spoke with mentioned a strange man entering Rice’s office. Unfortunately, the door leading to the faculty offices is locked at this late hour. The student says that the head janitor, “Jazz”, might be able to let you in, if you can find him.
+### B: 청소부 책임자
+라이스 교수를 찾을 수는 없었지만, 이야기를 나눈 학생들 중 한명이 라이스 교수의 사무실로 수상한 사람이 들어가는 것을 보았다고 합니다. 불행히도 이런 늦은 시간에는 교수 사무실들로 가는 문은 잠겨있습니다. 그 학생이 말하길, 청소부 중 "재즈"라는 책임자를 찾을 수만 있으면 그가 들여보내줄 지도 모른다고 합니다.
 
-## Act 2: Rice’s Whereabouts
+## Act 2: 라이스 교수의 행방
 
-### A: Rice’s Whereabouts
-Concerned for Professor Rice’s safety, you seek out the head janitor, who can let you into the locked sections of the campus.
+### A: 라이스 교수의 행방
+라이스 교수의 안전을 걱정하면서 캠퍼스의 제한 구역으로 들여보내 줄 수 있는 청소 책임자를 찾습니다.
 
-### B: The Experiment is Loose!
-You convince “Jazz” that something strange is going on, and that Professor Rice may be in danger. He doesn’t trust you enough to hand you his keys, but agrees to come with you.
-All of a sudden, you hear a crash coming from the Science building, and a student rushes toward you. “Help!” he cries. “There’s some kind of animal loose in the chem labs! I only barely caught a glimpse of it, but...” He shudders. “I think it’s heading to the dorms! You’ve got to do something!”
+### B: 실험이 제어되지 않는다!
+"재즈"에게 뭔가 이상한 일이 벌어지고 있으며, 라이스 교수가 위험할 수도 있다고 설득합니다. 재즈는 열쇠를 건네줄만큼 믿지는 않지만, 같이 동행하는 것을 수락했습니다. 갑자기 과학관에서 뭔가가 부서지는 소리가 들려옵니다. 한 학생이 당신쪽으로 뛰어옵니다. "도와주세요!" 학생이 소리칩니다. "화학 실험실에서 동물같은 뭔가가 돌아다니는 것을 봤어요! 잠깐밖에 못 봤지만..." 공포에 떨며 이야기 합니다. "제 생각에는 그게 기숙사로 향하는 것 같아요! 뭐든 해야 합니다!"
 
-## Act 3: Campus Safety
+## Act 3: 캠퍼스의 안전
 
-### A: Campus Safety
-You have only moments to react. You could warn the students in the dormitories and escort them to safety, or continue your task of searching the faculty offices for Professor Rice. Or, perhaps you could try to slay the beast that threatens the campus.
+### A: 캠퍼스의 안전
+행동하기 위한 시간이 잠깐밖에 없습니다. 당신은 기숙사의 학생들에게 경고하고 학생들을 안전하게 대피시키거나, 라이스 교수를 찾기 위해서 교수 사무실을 수색하는 일을 계속할 수 있습니다. 혹은, 아마도 캠퍼스를 위협하는 그 동물을 물리치도록 시도해볼 수도 있습니다.
 
-### B: The Beast's Death
-The monstrous creature lets out a terrible shriek as it succumbs to its wounds and collapses onto the ground. A foul odor emanates from the corpse as its flesh begins to bubble and froth. Your relief turns to disgust as the body begins to shrink and disintegrate. Minutes later, the body has almost entirely evaporated into a sticky mass, and the awful odor has vanished. Inside the remnants of the creature’s body, all you can find is a set of bones – the skeletal structure of a canine.
+### B: 괴물의 죽음
+그 괴 생명체가 상처에 굴복하여 땅에 쓰러지면서 끔찍한 비명을 지릅니다. 시체가 거품을 내면서, 더러운 냄새가 납니다. 몸이 줄어들고 붕괴하기 시작하면 혐오스러워집니다. 몇 분 후 시체는 거의 완전히 끈적 끈적한 물질로 증발했고, 끔찍한 냄새는 사라졌습니다. 생물체의 잔해 안에는 골격 구조를 이루었던 뼈밖에 없습니다.

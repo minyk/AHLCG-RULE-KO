@@ -1,25 +1,25 @@
 # Extracurricular Activity
 
-## Agenda 1: Quiet Halls
+## Agenda 1: 조용한 정문
 
-### A: Quiet Halls
-You have arrived at the Miskatonic University campus in search of Professor Warren Rice. Classes are over, and a mysterious silence hangs in the air over the quad.
+### A: 조용한 정문
+당신은 워렌 라이스 교수를 찾기 위해서 미스케토닉 대학 캠퍼스에 도착했습니다. 수업들은 모두 끝났고, 캠퍼스에는 기묘한 정적만이 머물고 있습니다.
 
-### B: Something Stirs
-The university is dead silent. The shadows coil about your feet as you walk, and you swear there is something following you with each step you take. Is it just your imagination? Or is there really someone—or something—stalking you?
+### B: 무엇인가가 움직인다
+대학은 쥐죽은 듯 고요합니다. 걸어 가면서 그림자가 당신의 발 아래를 휘감고, 걸을 때마다 무엇인가가 당신을 따라오고 있다고 확신합니다. 그냥 착각일까요? 아니면 정말로 누군가 또는 무엇인가가 당신을 추적하는 걸까요?
 
-## Agenda 2: Dead of Night
+## Agenda 2: 심야
 
-### A: Dead of Night
-Professor Rice’s disappearance isn’t the only thing amiss at the university. You’re unsure exactly what is going on, but you’re starting to believe Armitage was right in asking for your help.
+### A: 심야
+이 대학에서 라이스 교수의 실종만이 잘못되어 보이지 않습니다. 무슨일인지 확신할 수는 없지만, 아미티지 교수가 도움을 청한 것이 옳았다고 생각되기 시작합니다.
 
-### B: An Experiment Gone Wrong
-A cry of fear echoes through the campus, and several students flee from the eastern side of the university, where the Science building can be found. Could this commotion be linked to Professor Rice’s disappearance?
+### B: 실험이 잘못되었다
+캠퍼스에 공포에 찬 비명이 들려오더니 과학관이 있는 대학의 동쪽 측면에서 몇몇 학생들이 도망쳐 옵니다. 이 소동이 라이스 교수의 실종과 연관이 있는 것일까요?
 
-## Agenda 3: The Beast Unleashed
+## Agenda 3: 짐승이 풀려나다
 
-### A: The Beast Unleashed
-Some kind of wild creature is on the loose. Whatever it is, it appears to be headed toward the university dormitories.
+### A: 짐승이 풀려나다
+어떤 사나운 생명체가 풀려났습니다. 무엇이든 간에, 그게 대학 기숙사로 향하고 있는 것 같습니다.
 
-### B: Not Fast Enough
-Before you are able to act, you hear screaming from the northern side of the campus. You begin to make your way toward the screaming, your vision darkening with each step. As soon as the creature enters sight, you feel the darkness overtake you, and a force pulls you out of your consciousness. Everything goes black, and you pass out.
+### B: 충분히 재빠르지 못했다
+당신이 대응하기 전에 캠퍼스의 북쪽에서부터 비명소리를 들었습니다. 비명소리를 향하여 달려가기 시작하자 매 걸음마다 시야가 어두워집니다. 그 생물이 시야에 보이자마자 어둠이 당신을 엄습하는 것을 느끼면서 의식의 밖으로 당신을 잡아 당깁니다. 모든 것이 검게 보이며, 당신은 기절했습니다.
