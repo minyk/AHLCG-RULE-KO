@@ -13,3 +13,4 @@
  * [The House Always Wins: Agenda](The-House-Always-Wins/The-House-Always-Wins-Agenda.md)
  * [The House Always Wins: Act](The-House-Always-Wins/The-House-Always-Wins-Act.md)
  * [The House Always Wins: 결론](The-House-Always-Wins/The-House-Always-Wins-Resolution.md)
+* [막간: 아미티지 교수의 운명](Amitage-Fate/Amitage-Fate.md)
