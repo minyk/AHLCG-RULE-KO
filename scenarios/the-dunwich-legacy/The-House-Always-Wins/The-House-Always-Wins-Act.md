@@ -1,38 +1,37 @@
 # The House Always Wins
 
-## Act 1: Beginner’s Luck
+## Act 1: 초심자의 행운
 
-### A: Beginner’s Luck
-You need to find Dr. Morgan. The club is packed; perhaps somebody knows where he is.
+### A: 초심자의 행운
+모건 박사를 찾아야 합니다. 클럽에는 사람이 많이 있습니다, 아마도 누군가는 모건 박사가 어디에 있는지 알고 있을 것입니다.
 
-### B: High Roller
-After speaking to a number of gamblers and servers, it seems as though Dr. Morgan has had quite the run lately. Instead of cashing out his winnings, he was convinced to double down. He was last seen entering the guarded hall near the back of the cardroom.
+### B: 큰손
+몇몇 갬블러들과 종업원들과 이야기하고 나자, 모건 박사가 꽤 늦게까지 도박을 한 것을 알수 있었습니다. 그는 지금까지의 승리를 현금으로 바꾸는 대신, 더 큰 판에서 도박하도록 설득당했습니다. 모건 박사가 마지막으로 목격된 곳은 카드룸 뒤에 있는 경비 중인 홀로 들어가는 모습이었습니다.
 
-## Act 2: Skin Game
+## Act 2: 속임수 승부
 
-### A: Skin Game
-Dr. Morgan is somewhere in the private section of the club, where only VIPs and the club’s managers are allowed. If you are to find him, you’re going to have to sneak or even fight your way in.
+### A: 속임수 승부
+모건 박사는 VIP와 클럽의 관리인이 허가한 사람만 들어갈 수 있는 클럽의 비밀스러운 공간 중 어딘가에 있습니다.  그를 찾으려면 숨어서 들어가거나 경비와 싸워야만 합니다.
 
-### B: Dr. Morgan's Fate
-If the players have not yet completed Extracurricular Activity:
-You find Dr. Morgan gambling in one of the VIP rooms...but he appears to be playing cards with two unconscious bodies, his pupils dilated as though in a trance. He can’t seem to stop laughing, smiling, and chatting with the other “players.”
+### B: 모건 박사의 운명
+*Extracurricular Activity를 완료하지 않았다면:*
+모건 박사가 VIP룸중 하나에 있는 것을 발견했습니다...그런데 그는 의식이 없는 두 명과 카드 게임을 하고 있는 것 처럼 보이며, 그의 눈동자는 트랜스 상태에 있는 것처럼 보입니다. 그는 웃고, 미소짓고, 다른 "플레이어"들과 떠드는 것을 멈출 수 없어 보입니다.
 
-If the players have completed Extracurricular Activity:
-The VIP rooms are filled with the mangled and bloody bodies of unfortunate patrons. There doesn’t appear to be any trace of Dr. Morgan. You hear screaming and gunfire from the main area of the club.
+*Extracurricular Activity를 완료했다면:*
+VIP룸은 불운한 손님들의 훼손된 신체 조각들로 가득차 있습니다. 모건 박사의 어떤 흔적도 없어 보입니다. 클럽의 중앙에서 총소리과 비명소리가 들여옵니다.
 
+## Act 3: 올 인
 
-## Act 3: All In
+### A: 올 인
+모건 박사와 함께든 그렇지 않든, 이 곳을 떠나야 합니다. 빠르게.
 
-### A: All In
-With or without Dr. Morgan, you have to get out of here. Fast.
+### B: 안전합니다... 한 동안은
+클럽에서 벗어나 근처 길 가에 있는 몇 대의 자동차처럼 수상해 보이지 않도록 최선을 다합니다. 레스토랑의 입구를 향해 달려가 상황에 대한 통제권을 얻는 한 줌 남녀의 남성과 여성이 퇴장합니다. 그들 중 한 명이 당신과 눈을 마주치며 자신의 .38구경 권총의 그립을 잡았습니다. 그러나 고맙게도 그의 주의를 다른 승무원들에게 돌려 보내고 클럽으로 따라갑니다. 당신은 안도의 한숨을 내 쉽니다...
 
-### B: Safe... For Now
-You escape the club, doing your best to look inconspicuous as several cars pull up near the street. A handful of grim-faced men and women exit, running toward the restaurant’s entrance to take control of the situation. One of them catches your eye, his hand on the grip of his .38, but thankfully he turns his attention back to the rest of his crew and follows them into the club. You breathe a sigh of relief...
+## Act 3: 폴드
 
-## Act 3: Fold
+### A: 폴드
+한 사람이 바에서 소리칩니다: "날 여기서 빼내주는 누구든 내가 한 잔 사지!"
 
-### A: Fold
-“Free drinks for whoever gets me the hell out of here!” A man exclaims from the bar.
-
-### B: Escaping the Club
-You make your way toward the rain-slicked streets of Arkham.
+### B: 클럽에서의 탈출
+당신은 비에 미끄러운 아캄의 거리로 도망쳤습니다.
