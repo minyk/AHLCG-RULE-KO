@@ -3,19 +3,22 @@
 
 이 장에서는 게임에서의 정확한 기능을 하도록 중요한 용어들의 정의를 제공합니다. 용어들은 알파벳 순으로 정렬되어 있습니다.
 
-# “Record in your Campaign Log...”
+# "캠페인 로그에 다음을 기록하시오..."(“Record in your Campaign Log...”)
+
 플레이어들이 중요한 문구를 캠페인 로그에 기록하도록 지시받으면, 다른 지시가 없는 한 이 문장을 "캠페인 노트"에 기록해야 합니다. 캠페인을 진행하는 동안 차후에 캠페인 로그에서 이 문장을 확인하도록 지시받을 수 있기 때문에 지정된 문장을 변경없이 기록해야 합니다.
 
-For example: If the players are instructed to record in the Campaign Log that “the investigators were four hours late,” this shouldn’t be rewri en as “the investigators were pre y late,” because the exact number of hours might be important in a later scenario.
+> 예: 플레이어들이 캠페인 로그에 "the investigators were four hours late,"을 기록할 것을 지시받으면 이어지는 시나리오에서 정확히 늦어진 시간이 중요할 수 있기 때문에 “the investigators were pretty late,”와 같이 임의로 기록해서는 안 됩니다.
 
-# “Remember that...”
-Sometimes a scenario card will instruct the investigators to “remember”
-a key phrase, o en based on an action they have taken or a decision they have made within that scenario.  is phrase may come up later during that scenario, and may trigger additional or di erent e ects.  ere is no need to record this phrase in the Campaign Log, because it will only ever ma er during that scenario, or during that scenario’s resolution.  e players do not need to “remember” any such instruction beyond the end of the scenario in which it appears.
+# "다음을 기억하시오..." (“Remember that...”)
 
-# Signature Cards
-An investigator’s “signature cards” are the cards that are only available to that investigator, and cannot be included in another investigator’s deck.  is includes player cards with the text “(Investigator Name) deck only,” as well as non-basic weaknesses that are listed under “Deckbuilding Requirements” and therefore can only be included in that investigator’s deck.
-Signature cards are governed by the following additional rules:
-* The number of each signature card listed under an investigator’s “Deckbuilding Requirements” is the exact number of copies of that card that is to be included in that investigator’s deck. If no number is speci ed, that number is 1.
-For example: Under “Deckbuilding Requirements” for Roland Banks, the following cards are listed: “Roland’s .38 Special, Cover Up, 1 random basic weakness.” Roland Banks must include exactly 1 copy of his signature cards—Roland’s .38 Special and Cover Up. He is not permi ed to include more than 1 copy of either of these cards.
-* An investigator’s signature cards cannot be traded or given to other investigators.
-For example: Roland has the Roland’s .38 Special card in play. He has the card “Teamwork” which can allow investigators at the same location to trade or give assets among one another. However, because Roland’s .38 Special is one of Roland’s signature cards, he cannot give it to another investigator.
+시나리오 도중 조사자들은 자신들의 행동이나 시나리오에서 취했던 결정의 결과로 중요한 문구를 "기억할 것"을 지시받을 수도 있습니다. 이 문구는 시나리오를 진행하는 동안 필요해 질 수 있으며, 추가적이나 다른 효과를 작동시키기도 합니다. 이러한 문구는 시나리오 동안 혹은 시나리오의 결론 부분에서만 사용되기 때문에 이 문구를 캠페인 로그에 기록할 필요가 없습니다. 플레이어들은 "기억할 것"이라는 지시가 나타난 시나리오가 종료되면 더 이상 기억하고 있을 필요가 없습니다.
+
+# 시그니처 카드들
+
+조사자의 "특징 카드들"은 그 조사자만 사용할 수 있으며 다른 조사자들의 덱에 사용할 수 없는 카드들입니다. 이 카드들은 "(조사자 이름)에만 가능"((Investigator Name) deck only,) 같은 문구가 있거나 조사자 카드의 "덱 구성 필요조건"(“Deckbuilding Requirements”)에 기록되어 있는 약점 카드들을 포함하며, 따라서 그 조사자의 덱에만 사용될 수 있습니다. 시그니쳐 카드는 다음의 추가적인 규칙을 적용합니다:
+
+* 조사자의 덱에 포함될 수 있는 각각의 시그니쳐 카드는 "덱 구성 필요조건"에 기록되어 있는 장수의 카드만 포함 가능합니다. 카드 장수가 기록되어 있지 않으면 1장입니다.
+> 예: 롤랜드 뱅크스의 "덱 구성 필요조건"에는 다음과 같이 카드들이 나타나 있습니다: "롤랜드의 특제 .38 권총, 은폐 공작, 1 무작위 기본 약점". 롤랜드의 덱에는 시그니처 카드인 "롤랜드의 특제 .38권총"과 "은폐 공작"을 정확히 1장만 넣어야 합니다. 이 카드들을 1장 이상 넣는 것은 허용되지 않습니다.
+
+* 조사자의 시그니처 카드들은 교환하거나 다른 조사자에게 줄 수 없습니다.
+> 예: 롤랜드는 "롤랜드의 특제 .38권총"을 플레이에 가지고 있습니다. 롤랜드가 같은 장소에 있는 조사자들간 자산을 교환하거나 주는 것을 가능하게 하는 "팀 워크" 카드를 가지고 있습니다. 그러나 "롤랜드의 특제 .38권총"은 롤랜드의 시그니처 카드이기 때문에 그 카드를 다른 조사자에게 건네줄 수 없습니다.
