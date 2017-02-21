@@ -28,6 +28,14 @@
  * [승리 포인트와 승리 전시 영역](rulerefs/VictoryPoints.md)
 
 
+* FAQs
+ * [참고와 교정](faqs/NotesAndErrata.md)
+ * [정의와 용어들](faqs/DefinitionsandTerms.md)
+ * [규칙과 설명](faqs/RulingsAndClarifications.md)
+ * [자주 묻는 질문들](faqs/FrequentlyAskedQuestions.md)
+ * [빠른 참조](faqs/QuickReference.md)
+
+
 * 조사자들
  * [코어 셋](investigators/CORE-SET.md)
  * [던위치 레가시](investigators/DUNWICH-LEGACY.md)
