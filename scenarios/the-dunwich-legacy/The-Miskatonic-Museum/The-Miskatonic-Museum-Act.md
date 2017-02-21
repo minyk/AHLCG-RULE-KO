@@ -1,42 +1,45 @@
 # The Miskatonic Museum
 
-## Act 1: Finding A Way Inside
+## Act 1: 박물관 안으로의 길을 찾아서
 
-### A: Finding A Way Inside
-Unfortunately, the entrance to the Museum is kept locked at this late hour. A security guard is visible through the building’s front windows, oblivious to his surroundings. Perhaps you can find a way to get his attention and convince him to let you in.
+### A: 박물관 안으로의 길을 찾아서
+불행하게도, 지금 같은 늦은 시간에는 박물관 입구는 잠겨 있습니다. 경비원 한명이 박물관 건물의 앞쪽 창문을 통해서 보입니다.  아마도 경비원에게 말을 걸어서 설득한다면 들어갈 수 있을 것입니다.
 
-### B: Gaining Entrance
-If you spent clues to advance:
-You find the window nearest to the guard and tap it loud enough to get his attention. He gives a startled jump, then shifts open the window. “What do you want?” he asks timidly. You explain the situation to him and tell him he is in grave danger. He warily opens the front door to the Museum, shaking his head. “I wasn’t even supposed to be here today...”
-Choose an investigator to take control of the set-aside Adam Lynch asset. Reveal the Museum Halls. Advance to
-Act 2a – “Night at the Museum.”
 
-If you successfully performed the [Action] ability on the Museum Halls to advance:
-With great strength, you break down the door to the Museum, making considerable noise as you do. The security guard sees you enter, cries out in fear, and rushes toward the back of the museum.
-The door leading into the Museum Halls is no longer locked. Reveal the Museum Halls. Advance to Act 2a – “Breaking and Entering.”
+### B: 들어갈 방법을 찾았다
+*단서를 소비하여 진행했으면*:
 
-## Act 2: Breaking and Entering
+경비원에게 가장 가까운 창을 찾아서 주의를 끌만큼 충분히 크게 두드립니다. 경비원은 창가로 다가와 창문을 열고 묻습니다. “뭘 원하는 거요?” 당신은 현재 상황을 설명하면서 그가 매우 위험한 상황임을 말합니다. 경비원은 조심히 박물관의 정문을 열고 머리를 저으며 말합니다. “오늘 내가 여기 있을 게 아니었는데…”
 
-### A: Breaking and Entering
-The Necronomicon is being kept in a Restricted Hall somewhere in the museum.
+> 조사자 한명이 `Adam Lynch` 자산을 조정합니다. `Museum Halls` 을 공개하고 Act 2a “박물관에서의 밤”으로 진행합니다.
 
-### B: The Guard's Fate
-When you enter the Restricted Hall, you find the curator of the museum clutching an ornate statue as if it were a club, his suit stained with blood, a panicked expression on his face. The security guard you saw earlier lies in a pool of blood nearby, his intestines strewn about in a grotesque display. Your stomach turns and you resist the urge to vomit. “I tried to stop it, but...” the curator says quietly, his voice quivering. Whatever did this, it’s still nearby...
+*`Museum Halls`의 [Action] 능력을 성공적으로 수행하였다면*:
 
-## Act 2: Night at the Museum
+강한 힘으로 많은 소음을 내며 박물관으로의 문을 부숩니다. 경비원은 당신이 들어오는 것을 보고 공포에 소리지르며 박물관의 뒤편으로 달려갑니다.
 
-### A: Night at the Museum
-The Necronomicon is being kept in a Restricted Hall somewhere in the museum. Adam barely knows his way around, and gives a startled jump at every creak of the old building. “I just started here last week,” he explains. “What sort of trouble did you say was going on?” You haven’t the heart to give him the full story.
+> `Museum Halls`로의 길은 더 이상 잠겨있지 않습니다. `Museum Halls`를 공개합니다. Act 2a “무단 침입”으로 진행합니다.
 
-### B: The Curator's Fate
-When you enter the restricted hall, you find the curator of the museum lying in a pool of blood, his intestines strewn about in a grotesque display. Your stomach turns over and you resist the urge to vomit. Whatever did this, it’s still nearby...
 
-## Act 3: Searching for the Tome
+## Act 2: 무단 침입
 
-### A: Searching for the Tome
-Somewhere in this area is Olaus Wormius’s Latin translation of the Necronomicon. You must find it and escape while you can!
+### A: 무단 침입
+박물관의 제한 구역 어딘가에 네크로노미콘이 보관되어 있습니다.
 
-### B: The Necronomicon
-At last, you find the locked case containing the Necronomicon.
-The tome, over eight hundred pages in length, is filled with all manner of macabre imagery, formulae, spells, prophecies and descriptions of creatures from beyond the threshold of space.
-Without a doubt, it is a dangerous book... But its secrets could be very useful.
+### B: 경비원의 운명
+제한 구역에 발을 들여놓자, 피가 묻은 옷을 입고, 얼굴에는 공포가 가득한 박물관의 큐레이터가 화려한 조각상을 끌어안고 있는 것을 발견하였습니다. 앞서 봤던 경비원은 근처의 피웅덩이안에 누워있습니다. 당신은 구역질이 나는 것을 간신히 참습니다. “그걸 멈춰보려고 했어요 하지만…” 큐레이터가 떨리는 목소리로 조용이 이야기합니다. 이 짓을 한 것이 무었이든 간에 아직 근처에 있습니다…
+
+## Act 2: 박물관에서의 밤
+
+### A: 박물관에서의 밤
+박물관의 제한 구역 어딘가에 네크로노미콘이 보관되어 있습니다. 아담은 자신이 순찰하는 길에 대해서만 알고 있으며 이 오래된 건물이 삐걱일때마다 깜짝깜짝 놀랍니다. 아담이 설명합니다. “지난주 부터 일하기 시작했습니다.” “발생하고 있다는 문제들이 뭡니까?” 당신은 그에게 전체 이야기를 해줄 만큼의 인정은 없습니다.
+
+### B: 큐레이터의 운명
+제한 구역에 들어서자 박물관의 큐레이터가 피 웅덩이에 누워있는 것을 발견합니다. 당신은 구역질이 나는 것을 간신히 참습니다. 이 짓을 한 것이 무었이든 간에 아직 근처에 있습니다…
+
+## Act 3: 책을 찾아서
+
+### A: 책을 찾아서
+이 구역 어딘가에 올라우스 보미우스의 네크로노미콘 라틴어 번역본이 있습니다. 책을 찾아서 가능한 빨리 탈출해야 합니다!
+
+### B: 네크로노미콘
+마침내 네크로노미콘이 있는 잠겨진 상자를 찾았습니다. 8백 페이지가 넘는 그 책은 섬뜩한 그림과 수식, 주문, 예언들과 우주의 차원넘어에 있는 생물체들의 설명을 담고 있습니다. 의심할바 없이 위험한 책입니다… 하지만 그 비밀은 유용하게 사용될 수 있습니다.
