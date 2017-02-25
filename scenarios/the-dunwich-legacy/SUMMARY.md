@@ -13,7 +13,8 @@
  * [The House Always Wins: Agenda](The-House-Always-Wins/The-House-Always-Wins-Agenda.md)
  * [The House Always Wins: Act](The-House-Always-Wins/The-House-Always-Wins-Act.md)
  * [The House Always Wins: 결론](The-House-Always-Wins/The-House-Always-Wins-Resolution.md)
-* [막간: 아미티지 교수의 운명](Amitage-Fate/Amitage-Fate.md)
+* 막간 1
+ * [아미티지 교수의 운명](Amitage-Fate/Amitage-Fate.md)
 * The Miskatonic Museum
  * [The Miskatonic Museum: 도입](The-Miskatonic-Museum/The-Miskatonic-Museum-Intro.md)
  * [The Miskatonic Museum: Agenda](The-Miskatonic-Museum/The-Miskatonic-Museum-Agenda.md)
