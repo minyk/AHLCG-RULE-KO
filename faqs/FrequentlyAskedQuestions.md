@@ -1,52 +1,53 @@
 자주 묻는 질문들
 ============
 
-This section provides answers to a number of common questions that are asked about the game.  e entries are presented in a question and answer format, with the newest questions at the end of the list.
+이 장은 게임에 대한 일반적인 질문들에 대한 답을 제공합니다. 질문/답변 순으로 기록되어 있으며 새로운 질문들은 목록의 끝에 추가됩니다.
 
-Can I investigate a location with no clues on it? If I do, what happens?
-Yes. You can investigate a location even if there are no clues on it. However, you won’t be able to discover any clues there, because there are no clues on the location to discover.
+## 단서가 없는 장소를 조사할 수 있나요? 가능하다면 어떤 일이 발생하나요?
+가능합니다. 장소에 단서가 없는 지역도 조사할 수 있습니다. 하지만, 장소에 있는 단서가 없기 때문에 단서를 발견할 수는 없습니다. `Burglary` (코어 45) 또는 `Scavenging` (코어 73)을 사용하기 위해서 단서가 없는 장소를 조사할 수 있습니다.
 
-Investigating a location with no clues might still be useful to trigger card abilities such as Burglary (Core 45) or Scavenging (Core 73).
-Are clues on Cover Up (Core 7) considered to be “at my location” for the purposes of Roland’s   ability?
-No. Generally speaking, cards (such as investigators, assets under your control, enemies in your threat area, etc) are “at” a location. Clues are only “at” a location if they are physically on that location (“Clues,” Rules Reference, page 7).
+## `Cover up` (코어 7)에 있는 단서도 롤랜드의 <img src="../images/chaos-eldersign.png" width=25> 능력을 사용하기 위해 “내 장소에 있는” 것으로 볼 수 있나요?
+아니오. 일반적으로 카드들(조사자, 현재 보유한 자산, 위협 영역에 있는 적들 등)은 장소에 있습니다. 단서는 물리적으로 장소 위에 있을 때만 장소에 있는 것입니다.(“Clues,” 규칙 참조 7페이지)
 
-Is there any di erence between “at a location” and “in a location?”
-No. Both terms have the same meaning and are used interchangeably.
+## “장소에 있는(at a location)”과 “장소에 안에 있는(in a location)”은 어떤 차이점이 있습니까?
+차이점이 없습니다. 이 두 용어는 같은 의미이며 교환하여 사용됩니다.
 
-If I play an event with a Fight ability, like Backstab (Core 51), does it provoke a acks of opportunity?
-No. Abilities with a bold action designator (like Fight, Evade or Investigate) count as an action of that type. In this case, since Backstab counts as a Fight action, no a acks of opportunity are made, because Fight actions do not provoke a acks of opportunity.  e same goes for Fight abilities on assets, like .45 Automatic (Core 16).
+## `Backstab`(코어 51)과 같이 전투(Fight) 능력이 있는 이벤트 카드를 플레이 한 경우, 적의 기회 공격을 유발하게 되나요?
+아니오. 전투(**Fight**)나 회피(**Evade**), 조사(**Investigate**)처럼 볼드체로된 액션은 그 형식의 액션을 수행한 곳으로 간주합니다. 질문한 경우에는 `Backstab` 카드를 사용하는 것은 전투 행동을 수행하는 갓으로 간주되어 기회 공격을 유발하지 않습니다. `.45 Automatic` (코어 16) 처럼 자산에 있는 능력을 사용하는 것도 동일합니다.
 
-If I use an   ability or play an event with a bold action type (like Fight, Evade, or Investigate), do I need to spend one action to use the ability and another action to initiate the action listed? Or just one action?
-Paying the cost of the ability is enough to initiate the action designated.  ere is no need to spend an additional action.
+## <img src="../images/triggered-action.png" width=25> 능력이나 이벤트 카드에 볼드체로 행동이 표시되어 있으면, 카드나 능력의 발동에 하나의 행동을 사용하고 별도의 행동으로 표시된 능력을 사용해야 하나요? 혹은 한번의 행동이면 충분한가요?
+능력의 비용을 지불하는 것으로 표시된 행동을 수행하는데 충분합니다. 추가로 다른 행동을 소비할 필요가 없습니다.
 
-Can I trigger the   abilities on two copies of .45 Automatic (Core 16) for +2   and +2 damage?
-No. Each   ability is a separate action that must be resolved in full before you have the opportunity to take another action.
+## 2장의 `.45 Automatic`의 <img src="../images/triggered-action.png" width=25> 능력을 사용하여 +2 <img src="../images/skill-combat.png" width=25>와 +2 피해를 할 수 있나요?
+아니오. 각각의 <img src="../images/triggered-action.png" width=25> 능력은 다른 행동을 사용하기전에 반드시 완전히 해결되어야 합니다.
 
-Can I trigger the ability   on cards like Physical Training (Core 17) more than once per skill test?
-Yes. Unless the ability has a printed limitation on it, you may use it as o en as you like, provided you are able to pay the ability’s cost each time.
+## `Physical Training` (코어 17)같은 카드에 있는 <img src="../images/triggered-free.png" width=25> 능력을 스킬 테스트당 한번 이상 사용할 수 있나요?
+예. 능력에 별도의 제약이 쓰여져 있지 않는 한 매번 능력의 비용을 지불할 수만 있다면 원하는 만큼 사용할 수 있습니다.
 
-If there are clues or cards at an unrevealed location, and then that location is revealed, what happens to those clues/cards?
-Any clues or cards at an unrevealed location remain where they are when the location is revealed.  is includes clues physically placed on the location, enemies or assets at that location, and cards a ached to that location. Clues that are placed on the newly revealed location from its clue value are simply added to the clues that were already on that location when it was revealed.
+## 단서나 카드가 공개되지 않은 지역에 있는 상태에서 지역이 공개된다면 단서나 카드는 어떻게 되나요?
+공개되지 않았던 지역에 있는 단서나 카드는 공개되어도 그 지역에 남아있습니다. 장소에 부착된 카드나 장소에 있는 적, 자산 카드, 그리고 물리적으로 장소에 있는 단서 토큰도 마찬가지로 그 장소에 그대로 남아있습니다. 공개되면서 장소의 단서 값으로 인하여 추가되는 단서 토큰은 기존에 있었던 단서 토큰에 더해지게 됩니다.
 
-If a card e ect says to heal damage or horror but does not indicate  om where, can I use it to heal assets or investigators other than myself?
-No. “Heal X damage/horror” is shorthand for “Heal X damage/horror from your investigator.” If a card simply reads “Heal X horror” or “Heal
-X damage,” you can only use it to heal horror or damage from your investigator. Cards that allow you to heal other investigators or assets will specify that.
+## 피해나 공포를 치료하는 카드 효과에 누구를 치료한다는 지시가 없으면 스스로를 치료하는 대신 자산을 치료하는 데에 사용할 수 있나요?
+아니오. "피해/공포를 x점 치료한다"는 "당신의 조사자의 피해/공포를 x점 치료한다"의 줄임말 형태입니다. 카드에 "x점의 공포를 치료한다" 또는 "x점의 피해를 치료한다"라고 되어 있는 카드는 당신의 조사자를 치료하는데에만 사용할 수 있습니다. 다른 조사자나 자산을 치료할 수 있는 카드는 그 기능을 명시할 것 입니다.
 
-Who gets the e ects/bene ts of a skill card commi ed to another investigator’s skill test? If I commit Overpower (Core 91) to another investigator’s skill test, do I get to draw 1 card, or does the investigator performing the skill test get to draw 1 card?
-Generally speaking, the player who commi ed the skill card gets the e ects of any ability on that skill card. In your example, you would draw the 1 card, not the investigator performing the skill test. However, if a skill card changes or adds to the results of the skill test itself, the investigator performing the test receives the bene t of that ability. For example, if you commi ed Deduction (Core 39) to another investigator’s skill test, that investigator would be discovering the additional clue, not you, because you are altering the e ects of his or her skill test.
+## 다른 조사자의 스킬 체크에 사용된 스킬 카드의 효과나 피해는 누가 받아야 합니까? `Overpower` (코어 91) 을 다른 조사자의 스킬 테스트에 사용하면 카드를 사용한 플레이어 혹은 스킬 테스트를 수행한 조사자 중 누가 카드를 한 장 뽑을 수 있나요?
+일반적으로 스킬 카드를 사용한 조사자가 그 스킬 카드에 있는 능력의 효과를 얻을 수 있습니다. 말씀하신 예는 스킬 테스트를 수행하는 조사자가 아니라 카드를 사용한 당신이 카드를 한 장 뽑을 수 있습니다. 그러나 스킬 테스트 자체의 결과에 추가하거나 스킬 테스트를 변경하는 카드는 테스트를 수행하는 조사자가 그 능력의 효과를 얻습니다. 예를 들어, `Deduction` (코어 39)를 다른 조사자의 스킬 테스트에 사용하면, 스킬 테스트의 효과를 변경했기 때문에 당신이 아니라 테스트를 수행한 조사자가 추가로 단서를 발견하게 됩니다.
 
-When I use the ability on Stray Cat (Core 76), can I choose any enemy at my location, even if they are engaged with other investigators?
-Yes. When you perform a standard evade action, you may only a empt to evade enemies engaged with you. However, card e ects (such as Stray Cat or Cunning Distraction (Core 78) may alter or supplant this limitation.
+## `Stray Cat` (코어 76)에 있는 능력을 사용할 때, 나와 같은 장소에만 있다면 다른 조사자와 대면하고 있는 적을 선택할 수 도 있나요?
+예. 일반적인 Evade 액션을 할 때에는 자신과 대면하고 있는 적만 회피할 수 있습니다만, `Stray Cat`이나 `Cunning Distraction`(코어 78)의 카드 효과는 이런 제한을 변경하거나 보조합니다.
 
-When I a ack using Shrivelling (Core 60) and reveal a  ,  ,  ,  , or   symbol, when do I take 1 horror?
-You would take 1 horror immediately as you reveal the symbol, during “ST.3 Reveal chaos token” (“Skill Test Timing,” Rules Reference, page 26). If you had any reactions to taking that horror (such as Agnes Baker’s ability), you would trigger it then, before resolving the rest of the a ack.
+## `Shrivelling` (코어 60)을 사용하여 공격할 때, <img src="../images/chaos-skull.png" width=25>, <img src="../images/chaos-acol.png" width=25>, <img src="../images/chaos-tablet.png" width=25>, <img src="../images/chaos-what.png" width=25>, <img src="../images/chaos-tentacle.png" width=25> 카오스 토큰을 뽑았으면 언제 공포를 1점 받아야 하나요?
+"ST.3 카오스 토큰 공개" 단계동안 해당 토큰을 뽑았으면 즉시 1점의 공포를 받아야 합니다. 만일 공포를 받음으로 인하여 다른 반응 능력(아그네스 베이커의 능력 등)을 사용하려면 공격의 나머지 단계를 진행하기 전에 능력을 발동해야 합니다.
 
-If I automatically fail a test ( om revealing a   symbol, for example), I treat my skill value as if it were 0. If the di culty of the test is 0, does that mean I succeed?
-No. No ma er what, if you automatically fail a test, you have failed the test, regardless of how your skill value and the di culty compare.
+## 스킬 테스트에서 자동 실패( <img src="../images/chaos-tentacle.png" width=25> 토큰의 경우 등) 하여 스킬 값이 0이 된 경우 테스트의 난이도가 0이면 성공한 것인 가요?
+아니오. 무엇을 하던 테스트에 자동 실패했다면, 스킬 값이나 난이도의 비교에 관계없이 테스트에 실패한 것 입니다.
 
-How does “searching the collection” for a random basic weakness work? Do I use the same pool of weaknesses I used during deck construction? Or do I search through all of my weaknesses?
-Anytime players are instructed to search for a random basic weakness—be it during deck construction, during a scenario’s setup or resolution, or during a scenario itself—players should use the same pool of weaknesses, which is constructed using all of the basic weaknesses from only 1 copy of each product they own. If each investigator has their own collection of cards, they should each use their own pool of weaknesses constructed in the same manner, so as to avoid players’ cards ge ing mixed together accidentally.
-For example: Damon and Kelsy have each constructed decks using Damon’s collection, which consists of 2 copies of the Core Set. During deck construction, they each included 1 random basic weakness from a pool of weaknesses consisting of only the 10 weaknesses in a single copy of the Core Set.  is leaves a pool of 8 weaknesses remaining. If they are later instructed to each search the collection for a random basic weakness, these weaknesses would be taken from that remaining pool of 8 weaknesses.
+## 무작위 기본 약점 카드를 뽑기 위해서 “카드 더미를 찾는” 것은 어떻게 동작하게 되나요? 덱을 만들 때 사용했던 것과 동일한 약점 카드 더미를 쓰는 것인가요? 아니면 가지고 있는 모든 약점 카드 더미에서 뽑아야 하나요?
+언제든 - 덱을 만드는 중이나 시나리오의 준비/해결 단계에서, 또는 시나리오 도중에 - 플레이어가 무작위 기본 약점 카드를 찾으라고 지시받을 때에는 플레이어는 각 제품에 포함된 약점 카드 중 1장 씩 모아 만들어진 동일한 약점 카드 더미를 써야 합니다. 각 조사자가 자신 소유의 카드 더미를 가지고 있으면, 다른 플레이어와 섞이지 않도록 자신의 약점 카드들로 만들어진 카드 더미를 사용하면 됩니다.
 
-I have commi ed Double or Nothing (TDL 26) and Perception (Core 90) to a skill test during an investigation, and I also have Dr. Milan Christopher (Core 33) in play. If I succeed, which e ects are resolved twice?
-e e ects of a successful skill test are applied during step 7, and Double or Nothing causes each of these a ects to be resolved twice. Dr. Milan Christopher’s ability is a reaction to succeeding at a skill test, and therefore is triggered and resolved during step 6, a er success is determined. During step 7, the game result of the investigation (discovering 1 clue), and the “if this test is successful” result of Perception are both resolved twice due to Double or Nothing’s e ect.
+예를 들어 데이몬과 켈시는 각각 데이먼이 구입한 코어 셋 2개로 덱을 구성했습니다. 덱을 구성하는 동안, 둘은 코어 셋에 있는 약점 카드 중 1장씩 사용하여 만든 10장의 약점 카드 더미에서 무작위 약점 카드를 뽑아서 덱에 포함했습니다. 그러므로 남은 약점 카드 더미는 8장 입니다. 이후에 무작위 약점 카드를 뽑도록 지시받으면, 남은 8장의 약점 카드 더미에서 약점 카드를 뽑아야 합니다.
+
+> 역자 주: 플레이어들 간 동일한 약점 카드를 가지지 않게 하는 것이 핵심인 듯 합니다.
+
+## `Double or Nothing` (던위치 26)과 `Perception` (코어 90)을 조사 행동 도중 스킬 테스트에 사용하고, 플레이에 `Dr. Milan Christopher` (코어 33) 가 있는 상황입니다. 테스트에 성공하면 어떤 효과를 두 번 해결해야 하나요?
+성공한 스킬 테스트의 효과들은 7단계에서 발생하며, `Double or Nothing`는 이러한 각각의 효과들을 두 번 해결하게 합니다. `Dr. Milan Christopher`의 능력은 성공한 스킬 테스트에 대한 반응 능력이며, 그러므로 6단계에서 성공이 결정된 직후에 발동되어 해결됩니다. 그 후 7단계에서 조사 행동의 결과(단서 1개 발견)와 `Perception`의 “테스트가 성공하면”에 대한 결과 모두 `Double or Nothing`의 효과로 두 번 해결합니다.
