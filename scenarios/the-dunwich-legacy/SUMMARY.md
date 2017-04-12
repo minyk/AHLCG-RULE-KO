@@ -13,9 +13,15 @@
  * [The House Always Wins: Agenda](The-House-Always-Wins/The-House-Always-Wins-Agenda.md)
  * [The House Always Wins: Act](The-House-Always-Wins/The-House-Always-Wins-Act.md)
  * [The House Always Wins: 결론](The-House-Always-Wins/The-House-Always-Wins-Resolution.md)
-* [막간: 아미티지 교수의 운명](Amitage-Fate/Amitage-Fate.md)
+* 막간 1
+ * [아미티지 교수의 운명](Amitage-Fate/Amitage-Fate.md)
 * The Miskatonic Museum
  * [The Miskatonic Museum: 도입](The-Miskatonic-Museum/The-Miskatonic-Museum-Intro.md)
  * [The Miskatonic Museum: Agenda](The-Miskatonic-Museum/The-Miskatonic-Museum-Agenda.md)
  * [The Miskatonic Museum: Act](The-Miskatonic-Museum/The-Miskatonic-Museum-Act.md)
  * [The Miskatonic Museum: 결론](The-Miskatonic-Museum/The-Miskatonic-Museum-Resolution.md)
+* The Essex Country Express
+ * [The Essex Country Express: 도입](The-Essex-County-Express/The-Essex-County-Express-Intro.md)
+ * [The Essex Country Express: Agenda](The-Essex-County-Express/The-Essex-County-Express-Agenda.md)
+ * [The Essex Country Express: Act](The-Essex-County-Express/The-Essex-County-Express-Act.md)
+ * [The Essex Country Express: 결론](The-Essex-County-Express/The-Essex-County-Express-Resolution.md)
