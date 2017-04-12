@@ -1,66 +1,72 @@
-규칙과 설명
-========
+# 규칙과 설명
+이 장에는 핵심 게임 규칙에 대한 추가 설명과 해석을 담고 있습니다. 각각의 항목은 독립적인 항목 번호를 가지고 있어서 규칙 설명이나 질문에 대한 답변, 항목에 대한 참조를 쉽게 합니다.
 
-This section contains additions and clari cations to the core game rules. Each entry is presented with a unique section number so it can be easily identi ed when making rulings, answering questions, or otherwise referring to the entry.
-It should be used in conjunction with the Rules Reference to establish the rules of play. If the text of this document directly contradicts the text of the Rules Reference, the text of this document takes precedence.
+이 장은 규칙 참조와 함께 시용되어야 합니다. 이 항목과 규칙 참조의 내용이 서로 다르면, 이 항목의 내용이 우선됩니다.
 
 # Game play
 
-## (1.1) A acks of Opportunity
-A acks of Opportunity are only triggered when 1 or more of an investigator’s actions are being spent or used to trigger an ability or action.   abilities with a bold action designator do not provoke a acks of opportunity.
+## (1.1) 기회 공격
+기회 공격은 조사자가 어떤 능력을 사용하거나 행동을 하기 위해서 하나 혹은 그 이상의 행동을 행동을 소비했을 때 유발됩니다. 볼드체인 <img src="../images/triggered-free.png" width=25> 행동 지시자는 기회 공격을 유발하지 않습니다.
 
-## (1.2) Triggered Abilities
-An investigator is permi ed to use triggered abilities ( ,  , and   abilities) from the following sources:
-= A card in play and under his or her control.  is includes his or her investigator card.
-= A scenario card that is in play and at the same location as the investigator.  is includes the location itself, encounter cards placed at that location, and all encounter cards in the threat area of any investigator at that location.
-=  e current act or current agenda card.
-= Any card that explicitly allows the investigator to activate its ability.
+## (1.2) 발동 능력
+조사자는 다음의 목록에 있는 카드들의 발동 능력( <img src="../images/triggered-free.png" width=25>, <img src="../images/triggered-reaction.png" width=25>, <img src="../images/triggered-action.png" width=25> )만 사용할 수 있습니다.
+* 그 자신이 조종하고 있는 플레이에 들어와 있는 카드. 여기에는 자신의 조사자 카드를 포함합니다.
+* 플레이에 있으면서 조사자와 같은 장소에 있는 시나리오 카드. 여기에는 장소, 장소에 있는 조우 카드 그리고 그 장소에 있는 모든 조사자의 위협 영역에 있는 조우 카드들을 포함합니다.
+* 현재의 액트 카드나 현재의 아젠다 카드
+* 명시적으로 조사자가 능력을 사용할 수 있음을 허가한 모든 카드
 
-## (1.3) Reaction ( ) Opportunities
-When a triggering condition resolves, investigators are granted the opportunity to resolve   abilities in response to that triggering condition. It is only a er all investigators have passed their reaction opportunity that the game moves forward.
-Using a   ability in response to a triggering condition does not prevent other   abilities from being used in response to that same triggering condition.
-For example: Roland has just defeated an enemy and wishes to trigger his   ability: “A er you defeat an enemy: Discover 1 clue at your location.”
-He discovers 1 clue at his location. He may then play Evidence! (Core 22) in response to defeating that same enemy. As both cards have the same triggering condition (“A er you defeat an enemy”), triggering one of these reactions does not prevent Roland  om triggering the other.
+## (1.3) 반응 행동(<img src="../images/triggered-reaction.png" width=25>)의 기회
+발동 조건이 만족했을 때, 조사자는 발동 조건에 대응하여 반응(<img src="../images/triggered-reaction.png" width=25>) 능력을 해결할 수 있는 기회를 얻게 됩니다. 모든 조사자가 그들의 반응 기회를 모두 해결한 후에 게임 진행을 계속합니다.
 
-## (1.4) Nested Sequences
-Each time a triggering condition occurs, the following sequence is followed: (1) execute “when...” e ects that interrupt that triggering condition,
-(2) resolve the triggering condition, and then, (3) execute “a er...” e ects in response to that triggering condition.
-Within this sequence, if the use of a   or Forced ability leads to a new triggering condition, the game pauses and starts a new sequence: (1) execute “when...” e ects that interrupt the new triggering condition, (2) resolve the new triggering condition, and then, (3) execute “a er...” e ects in response to the new triggering condition.  is is called a nested sequence. Once this nested sequence is completed, the game returns to where it le  o , continuing with the original triggering condition’s sequence.
-It is possible that a nested sequence generates further triggering conditions (and hence more nested sequences).  ere is no limit to the number of nested sequences that may occur, but each nested sequence must complete before returning to the sequence that spawned it. In e ect, these sequences are resolved in a Last In, First Out (LIFO) manner.
-For example: Roland and Agnes are embroiled in a  erce ba le. Roland has a Guard Dog in his play area, and is engaged with a Goat Spawn with 2 damage on it. Agnes is engaged with a Ghoul Minion. Roland wishes to play a .45 Automatic, which provokes an a ack of opportunity  om the Goat Spawn, dealing 1 damage to Roland. Roland assigns this damage to his Guard Dog, which has a   ability: “When an enemy a ack deals damage to Guard Dog: Deal 1 damage to the a acking enemy.” Before resolving the playing of Roland’s .45 Automatic, Guard Dog’s ability resolves, and 1 damage is dealt to the Goat Spawn, which would defeat it. Goat Spawn has the following Forced ability: “When Goat Spawn is defeated: Each investigator at this location takes 1 horror.” Before resolving the damage dealt to the Guard Dog, 1 horror is dealt to each investigator at the location, including Agnes, who has a   ability: “A er
-1 or more horror is placed on Agnes Baker: Deal 1 damage to an enemy at your location.” Before resolving the Goat Spawn’s defeat, Agnes deals 1 damage to the Ghoul Minion engaged with her. Now that there are no further   or Forced abilities to trigger, the players return to the previous triggering condition and resolve the Goat Spawn’s defeat, and resolve any “A er...” e ects that might occur when it is defeated.  en, the players resolve the damage dealt to the Guard Dog, and resolve any “A er...” e ects that might occur  om that damage. Finally, the players return to the original triggering condition, and Roland is able to put his .45 Automatic into play.
+발동 조건에 대응하여 <img src="../images/triggered-reaction.png" width=25> 능력을 사용하는 것은 동일한 발동 조건을 가진 다른 <img src="../images/triggered-reaction.png" width=25> 능력이 발동 되는 것을 막지 않습니다.
+예: 롤랜드는 적을 물리치고 자신의 <img src="../images/triggered-reaction.png" width=25> 능력: “적을 물리친 후: 당신 장소의 단서 1개를 발견한다” 을 사용하기를 원합니다. 롤랜드는 자신의 장소에 있는 단서 1개를 발견합니다. 그 후 `Evidence!` (코어 22)를 같은 그 적을 물리친 것에 대해서 사용할 수 있습니다. 양쪽 능력 모두 같은 발동 조건(“적을 물리친 후”)을 가지고 있으며 한 능력의 발동이 다른 능력의 발동을 막지 않습니다.
 
-## (1.5) Choices, and the Grim Rule
-When investigators are forced to make a choice and there are multiple valid options, the lead investigator decides between those options.  e Grim Rule does not play a part in these choices.
-For example: Locked Door reads “A ach to the location with the most clues, and without a Locked Door a ached.” If there are 3 locations that are tied for the most clues, and none of them already have a Locked Door a ached, the lead investigator decides between those 3 locations. Players are not forced to decide which of those 3 options would be the objectively worst option.
-The Grim Rule only comes into e ect if players are unable to  nd the answer to a rules or timing con ict, and are thus unable to continue playing the game. It is designed to keep the game moving when looking up the correct answer would be too time-consuming or inconvenient for the players.  e Grim Rule is not an exhaustive answer to rules/timing con icts.
+## (1.4) 중첩된 절차
+발동 조건이 만족될 때마다 다음의 순서를 따라 갑니다: (1) 발동 조건의 효과가 발생하기 전에 “~할때” 를 실행합니다. (2) 발동 조건을 해결합니다. (3) 그후 그 발동 조건을 만족하는  “~한 후”에 를 실행합니다.
 
-## (1.6) Additional Costs
-Some cards add additional costs that must be paid in order to perform certain e ects or actions, in the form of “As an additional cost to (speci ed e ect/action) you must (additional cost)” or “You must (additional cost) to (speci ed e ect/action).”
-Additional costs are costs that can be paid outside the normal timing point of paying costs (for instance, during the resolution of an e ect). If an e ect that requires an additional cost would resolve, the additional cost must be paid at that time. If the additional cost cannot be paid, that aspect of the e ect fails to resolve.
-Additional costs do not have to be paid when a Forced e ect or mandatory instruction (such as in the Campaign Guide, or on the back of an Act or Agenda card) requires an investigator to resolve an e ect.
-For example: “Ashcan” Pete is at the Miskatonic Quad and activates Duke’s second ability, which reads: “  Exhaust Duke: Investigate. You investigate with a base skill of 4. You may move to a connecting location immediately before investigating with this e ect.” Pete pays the cost to activate this ability, which
-is spending one action and exhausting Duke.  en Pete resolves the ability,
- rst moving to the Orne Library, followed by investigating.  e Orne Library, however, reads: “You must spend 1 additional action to investigate the Orne Library.”  is adds an additional cost that must be paid in order to investigate the Orne Library.  is additional cost is paid when the investigate action would resolve, outside the normal timing point for paying costs. If Pete cannot spend the additional action, that aspect of Duke’s e ect fails to resolve.
+이 절차 중에, <img src="../images/triggered-reaction.png" width=25> 또는 강제 능력이 새로운 발동 조건을 만들면 기존의 절차는 잠시 멈추고 새 발동 조건에 대한 절차를 시작합니다: (1) 새로운 발동 조건의 효과가 발생하기 전에 “~할때” 를 실행합니다. (2) 새 발동 조건을 해결합니다. (3) 그후 그 새 발동 조건을 만족하는  “~한 후”에 를 실행합니다. 이런 것을 중첩된 절차라고 합니다. 일단 중첩된 절차가 종료되면 기존의 절차가 멈춰진 지점으로 돌아가 원래 발동 조건의 절차를 따라 갑니다.
 
-## (1.7) Skill Test Results and Advanced Timing
-During Step 7 of Skill Test Timing (“Apply skill test results”), all of the e ects of the successful skill test are determined and resolved, one at a time.  is includes the e ects of the test itself (such as the clue discovered while investigating, or the damage dealt during an a ack), as well as any “If this test is successful...” e ects from card abilities or skill cards commi ed to the test.
-  or Forced abilities with a triggering condition dependent upon the
-skill test being successful or unsuccessful (such as “A er you successfully investigate,” or “A er you fail a skill test by 2 or more”) do not trigger at this time.  ese abilities are triggered during Step 6, “Determine success/failure of skill test.”
+중첩된 절차가 또다른 새로운 발동 조건을 만들어 내는(그래서 더욱 더 중첩되는) 것도 가능합니다. 중첩된 절차의 회수에는 제한이 없지만, 하나의 절차가 완전히 종료되어야 본래 절차로 돌아갈 수 있습니다. 사실상 이런 절차들은 나중에 발생한 것이 먼저 해결되는(Last In First Out, LIFO) 방법을 따릅니다.
 
-# Card Ability Interpretation
+예: 롤랜드와 아그네스가 적과 격렬한 전투를 치릅니다. 롤랜드는 `Guard Dog`을 조종 중이고 2점의 피해를 입은 `Goat Spawn`과 대면 중입니다. 아그네스는 `Ghoul Minion`과 대면 중입니다. 롤랜드는 `.45 Automatic` 카드를 플레이 하여 기회 공격이 발생되고, `Goat Spawn`은 롤랜드에게 1점의 피해를 입힙니다. 롤랜드는 이 피해를 “적이 Guard Dog에게 피해를 주었을때: 공격한 적에게 1점의 피해를 준다”라는 <img src="../images/triggered-reaction.png" width=25> 능력이 있는 `Guard Dog`에게 할당합니다. 롤랜드의 `.45 Automatic` 플레이를 해결하기 전에 `Guard Dog`의 능력이 먼저 해결되어 1점의 피해를 `Goat Spawn`에게 주어 적을 물리칩니다. `Goat Spawn`은 “Goat Spawn이 죽으면: 이 장소에 있는 각각의 조사자는 1점의 공포를 받는다.”라는 강제 능력이 있습니다. `Guard Dog`에게 1점의 피해를 주기 전에 그 장소에 있는 “1 이상의 공포를 받은 후: 당신의 장소에 있는 적에게 1점의 피해를 준다”라는 <img src="../images/triggered-reaction.png" width=25> 능력이 있는 아그네스를 포함한 각 조사자는 1점의 공포를 받아야 합니다. `Goat Spawn`이 죽기 전에 아그네스는 1점의 피해를 자신과 대면한 `Ghoul Minion`에게 줍니다. 이제 더 이상의 <img src="../images/triggered-reaction.png" width=25> 또는 강제 능력이 발동되지 않기 때문에 플레이어는 앞의 단계로 돌아가서 `Goat Spawn`을 물리치고 그에 따른 “…한 이후”에 해당하는 능력을 해결합니다. 그리고 `Guard Dog`에게 피해를 주고 그 피해에 따라 발생할 수 있는 “…한 이후” 능력을 해결합니다. 마지막으로 가장 최초의 발동 조건으로 돌아와서 롤랜드는 손에 있던 `.45 Automatic`을 플레이에 들여 옵니다.
 
-## (2.1) “You/Your,” expanded
- e following guidelines are used to interpret which investigator is referenced by the words “you” and “your.”
-= A Revelation ability that references “you/your” refers to the investigator who drew the card and is resolving the ability.
-= When resolving a triggered ability ( ,  , or   ability), “you/ your” refers to the investigator triggering the ability.
-= If an ability contains a clause identifying whom it is targeting, “you/ your” in that ability refers to those investigators. For example, Stubborn Detective (Core 103) reads: “While Stubborn Detective is at your location...” this clause identi es “you” as any investigator at his location. Young Deep One reads: “A er Young Deep One engages you...” this clause identi es “you” as any investigator who engages Young Deep One.
-= Any other instance of “you/your” that does not fall into the above categories refers to the investigator who controls the card, the investigator who has the card in his/her threat area, or who is currently interacting with the card.
-A card may have multiple di erent abilities in which “you/your” may be interpreted di erently. “You/your” may refer to a di erent investigator in each of these abilities.
-For example: Dreams of R’lyeh reads:
-“Revelation - Put Dreams of R’lyeh into play in your threat area. You get –1   and –1 sanity.
- : Test   (3). If you succeed, Discard Dreams of R’lyeh.”
- ese three abilities reference “you/your” in di erent ways. For the Revelation ability, “your” refers to the investigator who drew Dreams of R’lyeh and is resolving its Revelation. For its constant ability, “you” refers to the investigator who has Dreams of R’lyeh in his or her threat area. For its   ability, “you” refers to the investigator who is performing the   ability.
+## (1.5) 선택과 Grim 규칙
+조사자들이 선택을 해야할 때 선택할 수 있는 여러개의 선택지가 있다면, 선임 조사자가 그러한 선택지중 하나를 선택합니다. Grim 규칙은 이런 경우에는 적용되지 않습니다.
 
-## (2.2) Timing of “At...” or “If...” abilities
-Some abilities have triggering conditions that use the words “at” or “if” instead of specifying “when” or “a er,” such as “at the end of the round,” or “if the Ghoul Priest is defeated.”  ese e ects trigger in between any “when...” abilities and any “a er...” abilities with the same triggering condition.
+예: `Locked Door`는 “가장 단서가 많고 Locked Door가 부착되어 있지 않은  지역에 부착한다”라고 되어 있습니다. 게임에서 `Locked Door`가 없으면서 가장 단서가 많은 장소가 3곳이 있다면 선임 조사자가 3곳 중 한 장소를 선택합니다. 플레이어들은 가장 나쁜 선택지를 선택하도록 강제되지 않습니다.
+
+Grim 규칙은 플레이어들이 규칙에 대한 답을 찾지 못하거나 타이밍이 확실하지 않을때에, 그래서 더 이상 플레이를 진행하는 것이 불가능할 때에 적용합니다. 이 규칙은 정확한 규칙을 찾는 것이 너무 많은 시간이 들거나 불편한 경우를 위해서 설계되었습니다. Grim 규칙은 규칙이나 타이밍이 충돌할 경우, 완전한 해답은 아닙니다.
+
+## (1.6) 추가 비용
+어떤 카드들은 특정한 효과나 행동을 수행하기 위해서 “As an additional cost to (특정 효과/행동) you must (추가 비용)” 또는 “You must (추가 비용) to (특정 효과/행동)”의 형태로 쓰여진 추가 비용을 지불해야 할 수도 있습니다.
+
+이러한 추가 비용은 비용 지불의 일반적인 타이밍 바깥(효과의 해결 도중)에서 지불할 수도 있습니다. 어떤 효과가 해결되기 위한 추가 비용을 요구하면, 그 추가 비용은 반드시 그 시점에서 지불되어야 합니다. 만일 추가 비용이 지불되지 않으면, 그 효과의 적용은 실패하게 됩니다.
+
+강제 효과나 필수 지시 사항(캠페인 가이드나 액티언, 아젠다 카드의 뒷면 등)에 따라 조사자가 효과를 해결하기 위해서 추가 비용을 지불해야 할때 반드시 지불해야 하는 곳은 아닙니다.
+
+예: 피트가 미스케토닉 쿼드에 있는 상태에서 듀크의 두번째 능력: "<img src="../images/triggered-action.png" width=25> 듀크를 소진: 조사한다. 조사할때 베이스 스킬 값은 4로 수행한다. 이 효과로 조사하기 직전에 연결되어 있는 장소로 즉시 이동할 수 있다" 을 사용합니다. 피트는 이 능력을 위해서 비용(행동 하나와 듀크를 소진)을 지불합니다. 그 후 피트는 효과를 해결합니다. 먼저 오네 도서관으로 이동하여 조사합니다. 그러나 오네 도서관에는 다음과 같이 적혀있습니다: "오네 도서관을 조사할 때 추가로 하나의 행동을 더 소비해야 합니다". 이 조사 행동에 대한 추가 비용은 비용을 지불하는 일반적인 시점 밖에서 지불해야 합니다. 피트가 추가 비용을 지불할 수 없으면 듀크의 능력에 대한 효과는 실패하게 됩니다.
+
+## (1.7) 스킬 테스트 결과와 복잡한 타이밍
+스킬 테스트 타이밍의 7단계(“스킬 테스트 결과를 적용”) 중, 성공한 스킬 테스트의 모든 효과들이 결정되고, 하나씩 효과를 해결합니다. 이 것은 테스트 자체의 효과(조사로 인한 단서의 발견 혹은 공격할때의 피해를 주는 것)와 카드 능력 또는 테스트에 사용된 스킬 카드에 있는 모든 “이 테스트가 성공하면…” 들을 포함합니다.
+
+<img src="../images/triggered-reaction.png" width=25> 또는 스킬 테스트의 성공/실패에 따른 발동 조건을 가지고 있는 강제 능력(“성공적으로 조사한 후” 또는 “스킬 테스트에서 2이상 실패한 경우” 등)은 이 단계에서 발동되지 않습니다. 이런 능력들은 6단계인 “스킬 테스트의 성공/실패 결정”에서 발동됩니다.
+
+# 카드 능력 해석
+## (2.1) “당신/당신의,” expanded
+조사자가 “당신” 그리고 “당신의” 단어로 지시되면 다음의 가이드라인을 따라서 해석하십시오.
+* “당신/당신의” 문구가 있는 공개 능력은 카드를 뽑은 조사자를 의미하며 카드를 뽑은 조사자가 능력을 해결해야 합니다.
+* 발동 능력( <img src="../images/triggered-free.png" width=25>, <img src="../images/triggered-reaction.png" width=25>, <img src="../images/triggered-action.png" width=25> )을 해결할 때에, “당신/당신의”는 능력을 발동하는 조사자를 의미합니다.
+* 어떤 능력이 누가 목표가 될지 결정하는 문구를 가지고 있으면, 이 능력에 있는 “당신/당신의” 는 그러한 조사자를 의미합니다. 예를 들어 `Stubborn Detective` (코어 103)은 “Stubborn Detective가 당신의 장소에 있을 때…”라는 능력이 있으며 이 문구에서의 “당신”은 `Stubborn Detective`와 같은 장소에 있는 조사자를 의미합니다. `Young Deep One` 의 “Young Deep One이 당신과 대면한 후…”에 있는 “당신”은 `Young Deep One`과 대면한 조사자를 의미합니다.
+* 이상의 경우에 일치하지 않는 모든 다른 “당신/당신의” 문구는 카드를 조종하는 조사자, 카드가 자신의 위협 영역에 있는 조사자, 혹은 현재 카드와 상호작용하고 있는 조사자를 의미합니다.
+
+하나의 카드에 있는 하나 이상의 “당신/당신의”는 각 능력에 따라 각기 다른 조사자를 의미할 수도 있습니다.
+
+예: `Dreams of R’lyeh`는
+
+> 공개 - Dreams of R’lyeh을 당신의 위협 영역에 놓으십시오.
+> 당신은 -1 <img src="../images/skill-willpower.png" width=25> 와 -1 정신을 얻습니다.
+> <img src="../images/triggered-action.png" width=25>: <img src="../images/skill-willpower.png" width=25> (3). 당신이 성공하면 Dreams of R’lyeh를 버리십시오.”
+이상의 3가지 능력에서 “당신/당신의”는 각기 다른 방법으로 지시됩니다. 공개 능력의 “당신의”은 `Dreams of R’lyeh` 카드를 뽑아서 공개 능력을 해결하고 있는 조사자를 가르킵니다. 지속 능력에 있는 “당신”은 `Dreams of R’lyeh`카드가 위협 영역에 있는 조사자를 가르킵니다. <img src="../images/triggered-action.png" width=25> 능력의 “당신”은 <img src="../images/triggered-action.png" width=25> 능력을 수행하고 있는 조사자를 의미합니다.
+
+## (2.2) “At...” 또는 “If...” 능력의 타이밍
+어떤 능력들은 “라운드의 끝에(at the end of the round)” 또는 “만일 구울 프리스트가 물리쳐지면(if the Ghoul Priest is defeated)”와 같이 발동 조건에 “when” 또는 “after” 대신 “at” 또는 “if” 를 사용하고 있습니다. 이런 효과들의 발동은 같은 발동 조건을 가진 “…할때(when)” 또는 “…한 후(after)”  사이에서 발동할 수 있습니다.
