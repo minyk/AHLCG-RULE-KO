@@ -1,51 +1,51 @@
-## Agenda 1: All is One
+## Agenda 1: 모든것이 하나다
 
-### A: All is One
+### A: 모든것이 하나다
 
-Pathways of sound and color extend for an eternity in all directions, dotted with impossible architecture, and overgrown with alien wildlife. The lines between objects are jagged and shifting, and your skin feels as if it were inside out.
+구조적으로 불가능한 점선과, 외계의 야생환경과 함께 과성장한, 소리와 빛의 길이 영원을 향해 모든 방향으로 확장되었다. 물체들 사이의 선은 들쑥날쑥하고 변화하였으며, 당신은 당신의 피부가 겉과 안이 뒤바뀐 것처럼 느낀다.
 
-### B: Familiar Echoes
+### B: 익숙한 목소리들
 
-* Shuffle the encounter discard pile into the encounter deck. Then, discard cards from the top until a location is discarded. The lead investigator resolvse that location’s ‘revelation’ effect.
+* 버린 조우카드들을 조우 덱에 섞어 넣습니다. 그리고 위에서부터 장소 카드가 버려질 때까지 카드를 버립니다. 선임 조사자는 나온 장소카드의 `공개` 효돠를 수행합니다.
 
-* Check Campaign Log. If the investigators failed to save the students, read the following:
-A huge canine creature, alien to your eyes and yet familiar, appears before you. The creature rushes forward, and you prepare to fend it off, but to your surprise it runs through you, towards a building that wasn’t behind you moments before: Derby Hall from the Miskatonic University. The creature bursts through the building’s front door and you hear screams of panic from inside, followed by the crunch of snapping bones and cries of pain.
+* 켐페인 로그를 확인한다. 만약 조사자들이 학생들을 구해내지 못했음이 있다면 이하를 읽는다.
+> 당신의 눈에는 이질적이지만 어딘지 익숙한, 개처럼 생긴 거대한 생물이 당신의 앞에 나타난다. 그 괴물이 앞으로 달려들기에, 당신은 그것을 막아낼 준비를 했지만, 당신을 놀래키듯이 그것은 당신을 통과하여, 조금 전까지만 해도 존재하지 않았던 건물, 미스카토닉 대학의 더비 홀 을 향해 달려든다. 그 괴물은 건물의 정문을 부수고 들어갔으며 뼈를 부수는 우드득 소리와 고통에 찬 울부짖음에 이어서, 당신은 공포에 빠진 비명소리가 안으로부터 터져나오는 것을 듣는다.
 
-* Each investigator takes 1 horror, regardless of their location.
+ * 각 조사자는 어느 곳에 있건 공포를 하나씩 받습니다.
 
-## Agenda 2: Past, Present and Future
+## Agenda 2: 과거, 현재 그리고 미래
 
-### A: Past, Present and Future
+### A: 과거, 현재 그리고 미래
 
-As you cross this realm, you catch occasional glimpses of reality – scenes from old memories, more recent visions from the past few days, and sometimes even events that you do not remember ever happening...
+이 지역을 지나가면서, 문득문득 당신은 현실이-오래된 기억들과, 지난 몇 일 동안에 있던 광경들, 그리고 때때로는 당신이 언제 일어난 일인지 기억하지 못하는 사건들까지도- 흘낏 보이는 것을 알아챈다...
 
-### B: The Price of Failure
+### B: 실패의 대가
 
-* Shuffle the encounter discard pile into the encounter deck. Then, discard cards from the top until a location is discarded. The lead investigator resolvse that location’s ‘revelation’ effect.
+* 버린 조우카드들을 조우 덱에 섞어 넣습니다. 그리고 위에서부터 장소 카드가 버려질 때까지 카드를 버립니다. 선임 조사자는 나온 장소카드의 `공개` 효돠를 수행합니다.
 
-* Check Campaign Log. If at least one name is recorded under “Sacrificed to Yog-Sothoth,” read the following:
-You hear a familiar voice calling out to you, and you enter an impossibly shaped building of cracked stone. “No... don’t!” the voice cries. You rush toward the voice, down a set of steep, narrow stairs. Upon reaching the bottom, you find yourself in the hidden chamber from Dunwich. Bound by shackles, you see those you failed to save, bloodied and maimed. The creature with a man’s face feeds from a corpse on the ground. The head of the corpse turns to face you, and a sharp pain stabs your heart.
+* 켐페인 로그를 확인한다. 만약 하나 이상의 이름이 요그-소토스에게 희생되었음 아래에 있으면 이하를 읽는다.
+> 당신은 익숙한 목소리가 당신을 소리쳐 부르는것을 들으며, 금이 간 돌의 불가능한 모양으로 생긴 건물로 들어간다. '안돼... 하지마!' 목소리가 울부짖는다. 당신은 목소리를 향해 달려가서, 몇 개의 계단을 내려가고, 좁은 통로를 지난다. 바닥에 이르자, 당신은 자신이 던위치의 밀실에 와 있음을 알아낸다. 족쇄에 묶여 피칠갑을 하고 불구가 된, 당신이 구해내지 못했던 이들을 보게 된다. 사람의 얼굴을 한 괴물이 바닥의 시체를 먹고 있다. 그 시체의 머리가 돌아가면서 당신을 쳐다보고, 날카롭게 찌르는 고통이 당신의 심장에 느껴진다.
 
-* Each investigator tests [Willpower] (X), where X is the number of names recorded under “Sacrificed to Yog-Sothoth.” For each point an investigator fails by, that investigator takes 1 damage.
+ * 각 조사자는 <img src="../images/skill-willpower.png" width=25> (X) 테스트를 수행합니다. X는 캠페인 로그의 "요그-소토스에게 희생됨"에 기록된 이름의 수입니다. 조사자는 실패하는 차이만큼 1점의 피해를 받습니다.
 
-## Agenda 3: Breaking Through
+## Agenda 3: 돌파
 
-### A: Breaking Through
+### A: 돌파
 
-Throughout this warped dimension, no matter where you travel, there is a haunting shape in the distance. At first, it appears as a disc, like a black moon with many wriggling arms. But as time passes, you can tell it is growing larger and larger...
+워프된 차원을 통과하자, 당신이 어디를 지나왔는지는 무관하게, 잊을 수 없을 것 같은 모양이 멀리에 있다. 처음에는, 그것은 원반 모양으로 보였는데 마치 검은 달에 엄청나게 많은 꿈틀거리는 팔이 달린 모양이었다. 하지만 시간이 지나면서, 당신은 그것이 점점 커지고 있음을 확신한다.
 
 ### B: The Key and the Gate
 
-* Spawn the set-aside Yog-Sothoth enemy at The Edge of the Universe. If The Edge of the Universe is not in play, spawn it in Another Dimension, instead. Advance to agenda 4a.
+* 옆에 두었던 `Yog-Sothoth` 적 카드를 `The Edge of the Universe` 장소에 배치합니다. 만일  `The Edge of the Universe` 장소가 게임에 없으면 대신 `Another Dimension`에 배치합니다. 아젠다 4a로 진행합니다.
 
-## Agenda 4: The End of All Things
+## Agenda 4: 모든 것의 끝
 
-### A: The End of All Things
+### A: 모든 것의 끝
 
-The shape in the distance smashes through the barriers of this dimension, its many arms reaching to envelop everything you see. Its body is like an ooze, covered in eyes and mouths. You feel insignificant, like a bug, next to the creature’s terrifying grandeur.
+멀리 보이는 그 형체는 현 차원의 방벽을 뚫고 지나며, 그것의 무수히 많은 팔들이 당신이 볼 수 있는 모든 것을 덮어버리려고 손을 뻗친다. 그 몸은 끈끈한 분비물처럼 보이고, 눈들과 입들로 뒤덮여있다. 그 괴물의 공포스러운 장관을 경험한 당신은 스스로가 마치 벌레처럼 아무것도 아님을 느낀다.
 
-### B: Yog-Sothoth Attacks!
+### B: 요그-소토스가 공격한다!
 
-Seeking the rift from which you entered this dimension, the extradimensional horror lashes out, crushing entire realms within its grasp.
+당신이 현 차원에 들어온 갈라진 틈을 찾아내자, 그 초차원적 공포가 후려치고, 전 세계는 그 손아귀 안에서 부서진다.
 
-* In player order, Yog-Sothoth attacks each investigator in play, regardless of Yog-Sothoth’s current location. Then, flip this agenda back to its “a” side.
+* 플레이어 순서대로, 요그-소토스는 자신의 현재 위치와 관계없이 각 조사자들을 한번씩 공격합니다. 그리고 다시 이 아젠다 카드를 "a" 면으로 뒤집습니다.
